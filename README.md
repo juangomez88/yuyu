@@ -103,8 +103,11 @@ Yusuke: "Maldita sea, ¿cómo podré vencer a Toguro?
   *Estación:
     ## Aparece un viejo en la escena
     ![image](https://github.com/user-attachments/assets/c5d39221-34d2-4b5a-b770-0efd4a93e44d)
+  
     ## Viejo:
   "jajaja.... tienes la cabaeza llena de Toguro. Esto podria ser útil".
+  ![image](https://github.com/user-attachments/assets/40508db8-cf45-4150-b243-547366485e20)
+
 
   ![image](https://github.com/user-attachments/assets/68785dd1-bbf7-4d14-b8c3-83e01173fdac)
   ## Yusuke:
@@ -120,7 +123,7 @@ Yusuke: "Maldita sea, ¿cómo podré vencer a Toguro?
 
 ![image](https://github.com/user-attachments/assets/a6504d24-62f2-4628-9557-1a031896392b)
 ## Yusuke:
-"¡Hmmm, un demonio ¡Es un idiota! ¡¡HUrra!!
+"¡Hmmm, un demonio ¡Es un idiota! ¡¡Hurra!!
 
   aas![image](https://github.com/user-attachments/assets/432558a4-d50c-427e-8817-95954c79a53d)
 
@@ -209,4 +212,333 @@ No he estado aquí por un tiempo, pero me pregunto, ¿cómo estará Takenaka?
 ¡Oh no!
 Diculpe las molestias
 !Corran¡
-    
+
+## moverse a la cuidad:
+## aparece un adivino
+![image](https://github.com/user-attachments/assets/c0792aec-c8f8-4b45-b156-f794949bbe85)
+
+## Adivino:
+¡Hola jovencito!
+![image](https://github.com/user-attachments/assets/70735c52-91aa-4343-beb6-dbb5da0e1995)
+## Yusuke:
+¿Me habla a mi?
+## Adivino:
+Parece que estás muy preocupado
+## Yusuke:
+Asi es...
+## Adivini:
+ahora déjame ver tu futuro.
+Tal vez tus preocupaciones se aclaren.
+
+![image](https://github.com/user-attachments/assets/512a7575-fede-405c-9d03-a8cd855e7bb7)
+## Yusuke:
+¿Tal vez se aclaren?
+Entonces, échale un vistazo abuelo.
+
+## Adivino:
+¡Vaya!, ¡esto es maravilloso!
+## Yusuke:
+¡Otra vez!
+## Adivino:
+Pronto te convertiras en el número 1 del mundo.
+## Yusuke:
+¿En serio?
+
+## Adivino:
+Dejame ver tu mano.
+
+## Yusuke:
+¿Como?
+
+## Adivino:
+hmmmm....... Sin embargo.....
+
+## Yusuke:
+¿Sin embargo qué?
+
+## Adivino:
+Tal como están las cosas.... dice que no es nada bueno.
+
+## Yusuke:
+Eres tu...
+
+## Adivino:
+Es demasiado protno para rendirse.
+Las cartas dicen que hay luz en dirección al este.
+
+## Yusuke:
+Eso no es mentira. ¿Veradad?
+
+## Adivino:
+¡Tonto!
+¿Acaso parezco un mentiroso?
+
+## Yusuke:
+Lo entiendo, abuelo.
+
+## Adivino:
+Si lo entiendes, ¿por qué nmo te apresuras y te vas?
+
+## Yusuke:
+¡Gracias!
+
+# Ir al este
+![image](https://github.com/user-attachments/assets/89b4b6a0-3eb1-4016-86b0-21196eca79a8)
+# se chocan
+
+## Hotaru:
+¡¡Eek!!
+¿Hacia donde miras mientas caminas Yusuke?
+
+## Yusuke:
+
+¡Guau!
+...Oh, es Hotaru
+
+No importa la edad que tengas, sigues siendo lenta.
+
+## Hotaru:
+¿Qué pasa?
+¿Chocas con alguien y actuas así?
+ven aquí un segundo
+
+## Yusuke:
+....
+
+![image](https://github.com/user-attachments/assets/a795db10-7205-4c6c-82b4-357b71520adb)
+
+## Yusuke:
+¿Qué pasa?
+¡Estoy realmente preocupado ahora mismo...!
+
+## Hotaru:
+Yusuke, si hay algo que te molesta tanto, ¿por qué no me lo dices?
+puedo ayudarte.
+
+## Yusuke:
+¡Idiota, no hay forma de que puedas entender esto!
+
+## Hotaru:
+¡¡Yusuke!!
+
+## Yusuke:
+No lo tomes a mal, no importa lo inteligente que seas.
+No hay nada que podamo hacer al respecto, es un problema de hombres.
+
+# Yusuke va y aparecen delincuentes
+
+![image](https://github.com/user-attachments/assets/dbacad9f-2bd2-4e36-be9d-fb37c02cea1a)
+## Delincuentes:
+jejejeje
+
+![image](https://github.com/user-attachments/assets/cb01e872-8c32-49a7-aec8-097f440a642e)
+
+![image](https://github.com/user-attachments/assets/9d0b2433-3a06-4978-a98f-853403f0f6e5)
+## Yusuke:
+¡¡Ese grito fue de Hotaru!!!
+
+![image](https://github.com/user-attachments/assets/fec9e3a7-4d0d-4b23-81f8-a4078e575610)
+## Hotaru(Keiko):
+Muchas gracias.
+
+## Anciano:
+¿Qué es esto?
+
+![image](https://github.com/user-attachments/assets/038daa66-3272-4d83-8434-866cbb1fd193)
+## Yusuke:
+!Hotaru...¡
+
+## Keiko:
+!Yusuke¡, esta persona me salvo de esa gennte extraña.
+Solo con la punto de su dedo, arrojó a tres personas a la vez!
+
+## Yusuke:
+!Guau, eso es increible.¡
+¿Cómo podría tener ese tipo de poder?
+Con ese poder podriamos derrotar a Toguro.
+!Abuelo¡ el secreto de ese poder ....
+Abuelo espera un momento ...
+
+![image](https://github.com/user-attachments/assets/e03c8e7a-6155-4204-83e0-4cb2fd90041f)
+## Yusuke sigue al anciano hasta un templo cercano.
+
+## Yusuke (jadea):
+¡El anciano es veloz!
+
+!Abuelo¡
+
+![image](https://github.com/user-attachments/assets/f330fb58-4f12-46e4-984f-c8116267a835)
+## Anciano:
+¿Qué quieres?
+
+## Yusuke:
+Por favor, !dime el secreto del poder que acabas de hacer!
+
+## Anciano:
+¿Qué harias si supieras el secreto?
+
+## Yusuke:
+Hay alguien al que realmente necesito vencer
+
+## Anciano:
+¿Qué sentido tiene ganar?
+
+## Yusuke:
+Si puedo derrotarlo ...
+
+## Anciano:
+¿Qué pasarias si ganas?
+
+## Yusuke:
+me convertiría en el hombre más fuerte del mundo.
+
+## Anciano:
+Ehh....
+
+## Yusuke:
+Pero si las cosas siguen como estan, no podré vencerlo.
+Pero ...
+
+## Anciano:
+Pero?....
+
+## Yusuke:
+Si tan solo tuviera ese poder...
+
+## Anciano:
+Ya veo ...
+Pero no todo el mundo puede hacerlo.
+
+## Yusuke:
+¡Por favor!
+!Hazme un hombre¡
+
+## Anciano:
+Bueno, ¿lo intentamos?
+
+## Yusuke:
+!Gracias¡
+
+![image](https://github.com/user-attachments/assets/eab4ee97-9c2c-49a6-827f-124bedadf3f3)
+## Anciano:
+El poder es un estado mental.
+
+## Yusuke:
+¿Un estado mental?
+
+## Anciano:
+¿Conoces la expresion: "Kusoka del fuego"?
+
+## Yusuke:
+!Si.¡
+
+## Anciano:
+Es como si el miedo a las llamas que se acercan dieran logar a un poder inimaginable.
+Primero, debes sentir miedo hacia la persona con la que estas peleando.
+
+## Yusuke:
+!Si.¡
+
+## Anciano:
+Le otoragaras aún mas de tu poder al miedo que hay en ti.
+Pensando en el aterrador puño de la ola!
+
+###El anciano carga y lanza un golpe
+## Yusuke:
+¡Guau..!
+
+![image](https://github.com/user-attachments/assets/973a2fda-cfb5-4732-86bc-c324cf3bce47)
+
+## Anciano:
+Terror telequinetico !Hadoken¡ aaaa!!
+
+### Yusuke brilla como el anciano...
+
+## Anciano:
+¿Tu., estás dispuesto a perder?
+
+## Yusuke:
+Oye, espera un segundo, no puede permitir eso, pero ...
+
+## Anciano:
+Es demasiado tarde
+Tu miedo esta en su peor momento ahora
+Voy a hacerlo crecer mas...
+
+## aparece Genkai
+![image](https://github.com/user-attachments/assets/616d65c1-8758-41ca-a6fb-8758ffc4e5cd)
+## Genkai:
+!!Genial¡¡
+
+![image](https://github.com/user-attachments/assets/aead7cba-c567-47c4-8822-651199e6ce6f)
+## Yusuke:
+¡Abuelita!
+
+## Genkai:
+¡Despierta ya!
+¡Si hubieras recivido un hadouken más de este tipo, habrías muerto!
+
+## Yusuke:
+¡uhhh!
+
+## Genkai:
+¡Abre los ojos con cuidado y miralo!
+![image](https://github.com/user-attachments/assets/75dfdb25-af48-40ed-960d-11d6fdb698d7)
+## Yusuke:
+¡Es verdad!
+¡No es Humano!
+¡Es un demonio!
+
+#Anciano:
+Maldita sea, estuve tan cerca....
+
+## Yusuke:
+Como te atreves a hacerme eso...
+
+### se transforma
+![image](https://github.com/user-attachments/assets/37c974cf-0ad8-4c73-b731-c5143cd1f212)
+![image](https://github.com/user-attachments/assets/2b444213-e51b-416e-8edb-2f6f4942ea3d)
+![image](https://github.com/user-attachments/assets/249dbc2c-050e-4a1e-9deb-089b22d74938)
+## Espiritu maligo:
+estoy destrozado, pero....
+si no puedes vencer a Chojo-sama en la isla Gokumon, no podras vencer a Toguro...
+
+## Yusuke:
+Chojo?
+
+¿Qué es eso?
+
+## Genkai:
+La energía del miedo que desataste
+
+### Genkai arroja una bola de energía
+
+## Yusuke:
+Que verguenza...
+
+## Genkai:
+¿Como es posible que alguien como tu no lo viera?
+
+## Yusuke:
+Eso estuvo mal...
+
+## Genkai:
+El miedo que sentiste hacia Toguro te cegó.
+
+## Yusuke:
+Abuela, ¡tengo que pedirte un favor!
+
+## Genkai:
+¿Qué?
+
+## Yusuke:
+Mantengamos en secreto lo que pasó hoy.
+
+## Genkai:
+Oh querido. tenemos mucho que entrenar.
+
+## Yusuke:
+Eso estuvo mal...
+
+### Pero Yusuke se sintio un poco mejor despues de derrotar al espiritu maligno.
+### Fin capitulo Yusuke
