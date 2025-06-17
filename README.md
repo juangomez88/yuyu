@@ -651,4 +651,115 @@ jejejeje
 
   ## Profesor Takenaka:
       Es un problema que tu y Urameshi tengan tanta energía
+      TOdos se han transformado en buenos niños recientemente.
+![image](https://github.com/user-attachments/assets/4dbab96a-ddec-41ad-9b00-e0af855653e9)
+## Kuwabara:
+    ¡Eso no me importa en lo más mínimo!
+    Estoy tan molesto
+## Profesor Takenaka: 
+    Sigues siendo tan inquieto como siempre.
+    ...Ya puedes irte, Kuwabara.
+
+![image](https://github.com/user-attachments/assets/2902639b-257d-440e-a6ef-50e057ef7b7b)
+## Kuwabara:
+    ¡Oye!
+    ¿No sabes dónde están Okubo y los demás?
+## Estudiante: 
+    Eh, e-están... c-creo que todavía en el aula…
+
+![image](https://github.com/user-attachments/assets/60a213ec-499b-4d21-89e6-0f665ac9835f)
+## Kuwabara: 
+    ¡Ustedes están...!
+    ¡¿Limpiando?!
+## Sawamura: 
+    ¡Ah, hola Kuwabara-san!
+## Kuwabara: 
+    ¡No me saluden tan tranquilos!
+    ¿¡Acaso olvidaron que teníamos una pelea pactada!?
+## Okubo: 
+    Ya no queremos pelear más.
+## Kirishima:
+    Hemos decidido vivir nuestra valiosa juventud
+    de forma pacífica
+## Kuwabara: 
+    ¡Ya basta!
+    ¡Si es así, pelearé solo!
+    ¡Los derrotaré por mi cuenta
+## Kuwabara: 
+    ¿Qué demonios les pasa...?
+    Todos están limpiando con seriedad.
+
+en el parque:
+![image](https://github.com/user-attachments/assets/c408ab08-ab98-4651-a2e8-1fbb1e5f8ad5)
+
+![image](https://github.com/user-attachments/assets/27f5d226-5a9c-4505-9fcd-a6f3582a37ab)
+fuie a un templo cercano
+
+![image](https://github.com/user-attachments/assets/efca0ee3-47df-42f6-b4a7-07890becab03)
+## Hombre:
+    Oh, 
+    Un espiritu revelde se acerca
+![image](https://github.com/user-attachments/assets/7a258f5e-1661-459e-a291-c08a9db437b2)
+## Hombre:
+    Oye, chico.
+## Kuwabara: 
+    Tengo un mal presentimiento sobre esto.
+## Hombre:
+    ¿No quieres aumentar tu rendimiento?
+## Kuwabara: 
+    ¿Tu tambien eres del seminario Tozai?
+## Hombre:
+    Es una sensación increíble
+## Kuwabara:
+    ¡Tú tambien eres un demonio!
+
+Kuwabara atacó de repentaaaaaaaaaaaasae.
+
+![image](https://github.com/user-attachments/assets/32edd132-0621-4a54-8209-82ce5e9aaaa0)
+
+![image](https://github.com/user-attachments/assets/f9689e10-e16b-4eea-9f67-00bc443f489a)
+
+
+Ir al parque 
+LLegamos al parque del encuentro pactado
+![image](https://github.com/user-attachments/assets/6103fa1a-e4ac-46d3-9c29-8d3d4007cbf2)
+## Kuwabara:
+    Supongo que es bueno estar aquí después de todo.
+    ¡Ustedes tienen una pelea pactada conmigo!
+    ¡Cumplan su palabra!
+    ¡Vengan todos de una vez!
+## Estudiante: 
+    Lo siento…
+## Kuwabara: 
+    ¿…?
+## Estudiante:
+    Hemos decidido dedicar la energía
+    que usábamos para pelear, a los estudios.
+## Kuwabara: 
+    ¡¿Pero qué...?!
+## Estudiante: 
+    Ya es hora de irnos a la academia.
+    Con permiso.
+## Kuwabara: 
+    ¡¿Qué demonios está pasando aquí!?
+
+![image](https://github.com/user-attachments/assets/f46d2020-6137-4cf3-89bd-84671738aec5)
+## Bonta:
+    Hmm,
+    Todos los delincuentes se portan bien.
+## Kuwabara: 
+    no tengo idea
+## Bonta:
+    En este caso deberias pregnutarle a tus amimgos, en lugar de simplemente dudar
+
+Ir a casa de Okubo
+![image](https://github.com/user-attachments/assets/d9e697e5-dc3b-41d4-976a-a3e1ff20d802)
+## Kuwabara:
+    Oh, ¡Okubo Kun!
+
+
+
+
+
+
   
