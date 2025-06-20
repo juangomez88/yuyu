@@ -823,6 +823,8 @@ Ir a casa de Okubo
 
 ![image](https://github.com/user-attachments/assets/443d16d3-218a-4e2c-afc7-0d10bdadb634)
 
+### el demonio ataca con el bastón y tira semillas de calabaza embueltas en fuego desde la boca.
+
 ![image](https://github.com/user-attachments/assets/28caaa08-5ea1-461a-871d-2089f864e811)
 ## Kuwabara:
     Genial lo logré
