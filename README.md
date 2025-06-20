@@ -757,9 +757,110 @@ Ir a casa de Okubo
 ## Kuwabara:
     Oh, ¡Okubo Kun!
 
+![image](https://github.com/user-attachments/assets/ccb44ad4-1ef6-4181-acd9-3675c4f25845)
+
+## Hermana de Okubo:
+    Mi hermanno está en en la escuela ahora mismo.
+## Kuwabara:
+    Eso es estupido. El debe odiar estudiar incluso más que yo.
+
+### Kuwabara se dirige a la casas de Kirishima 
+
+## Kuwabara:
+    ¡Kirishima-kun!
+
+![image](https://github.com/user-attachments/assets/73127584-fc86-4019-acb4-26234a115162)
+
+## Madre de Kirishima:
+    Ella esta en la escuela en este momento. ¿Por qué no empiezas a estudiar pronto para tus exámenes de ingreso?
+## Kuwabara:
+    Esto debe ser una broma.
+## Madre de Kirishima:
+    Si vas a esa escuela, tu personalidad también mejorará.
+## Kuwabara:
+    No puedo creer que el nombre de la escuela sea el seminario Tozai...
+## Madre de Kirishima:
+    Oh, ¿sabes?
+## Kuwabara:
+    mmmm, esto se está poniendo sospechoso. Tengo un mal presentimiento.
+
+### Kuwabara se dirige al seminario Tozai
+![image](https://github.com/user-attachments/assets/4f2efff8-67ff-4d49-81c5-88abdecbc5f4)
+## Kuwabara:
+    Así que este es el seminario Tozai. Parece que acá se guarda un gran secreto.
+
+![image](https://github.com/user-attachments/assets/8232c987-6d64-4951-a6b8-8d9a684db367)
+## Kuwabara:
+    El solo hecho de acercarme al aula me hace sentir cosas.
+
+### pone musica de misterio
+![image](https://github.com/user-attachments/assets/c8184e1c-db4a-4b5c-8678-51cda8a9d656)
+## Kuwabara:
+    ¿Que es esta aula?, Tiene un aura muy misteriosa.
+    mmmm.... alguien viene.
+
+![image](https://github.com/user-attachments/assets/0b20c906-b66a-4ea9-adac-da238a446ea7)
+## Maestra:
+    ¡Sean bienvenidos los nuevos y enérgicos estudiantes!
+    Puedo sentit su incríble energía.
+
+## Kuwabara:
+    Oh, mi poder psíquico está gritando que Zeki-sama no es humano
+
+## Maestra:
+    jojojojo ...
+    Realmente lo has acertado
+
+## Kuwabara:
+    ¡Eres un demonio despues de todo!
+    !¿Qué estas haciendo?¡
+
+![image](https://github.com/user-attachments/assets/b2d1abe3-3532-4d34-bfb7-05386e5b66c9)
+
+## Bankouki:
+    He venido a cosechar el poder de tu espiritu juvenil y rebelde
+    !Refigio joven¡
+
+![image](https://github.com/user-attachments/assets/443d16d3-218a-4e2c-afc7-0d10bdadb634)
+
+![image](https://github.com/user-attachments/assets/28caaa08-5ea1-461a-871d-2089f864e811)
+## Kuwabara:
+    Genial lo logré
+## Bankouki:
+    jejejeje. Jovencito, es demasiado pronto para pensar que este es el final... 
+    Mi poder se convertirá en la magia de Super Kashi y romperá la barrera ... 
+
+## Kuwabara:
+    !¿Q-que estas hablando? ¡
+
+## Bankouki:
+    eres joven...
+    nos volveremos a encontrar ...
+
+### se transforma en una bola de luz
+
+## Kuwabara:
+    ¡Menudo espiritu rebelde!
+
+![image](https://github.com/user-attachments/assets/e0777173-2d62-4fd4-888d-acede14a9c5f)
+
+    
+![image](https://github.com/user-attachments/assets/9495aa6a-7193-4192-ab34-5497110053a1)
+## Delincuente:
+    ¡eres Okubo!
+    ¡toma!
+## Okubo:
+    ¡Bastardo!
+
+![image](https://github.com/user-attachments/assets/a9cb9182-54a2-4cf9-bd65-7105a4cd1bf5)
+
+## Kuwabara:
+    Si tienes tanta enegía , entonces estarás bien.
+    Bueno, está bien
+
+### ...Kuwabara se siente aliviado de que sus amigos estén a salvo
+### Fin del capitulo de Kuwabara
+
+### Se escucha la pelea dentro del edificio
 
 
-
-
-
-  
