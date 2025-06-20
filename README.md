@@ -859,8 +859,8 @@ Ir a casa de Okubo
     Bueno, está bien
 
 ### ...Kuwabara se siente aliviado de que sus amigos estén a salvo
-### Fin del capitulo de Kuwabara
-
 ### Se escucha la pelea dentro del edificio
+
+### Fin del capitulo de Kuwabara
 
 
