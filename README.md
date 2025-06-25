@@ -865,4 +865,155 @@ Ir a casa de Okubo
 
 ### Fin del capitulo de Kuwabara
 
+### Capitula Kurama
+![image](https://github.com/user-attachments/assets/b5effbe6-c4c4-460c-b805-8c0ebd3fa738)
+### Perseguido por Koenma, Kurama sale a la ciudad por un momento.
 
+## Kurama:
+    Hay una inmensa cantidad de energía demoniaca ...
+    ¿Qué diablos va a pasar?
+
+### ir a la construcción
+![image](https://github.com/user-attachments/assets/a5df0895-db23-48cb-a026-4f88fdc458bf)
+## Hombre extraño: 
+    ...Minamino Shuichi, ¿Verdad?
+
+## Kurama:
+    Si, pero ¿Quien eres?
+
+## Hombre extraño:
+    Lo siento, pero tendrás que morir.
+
+### De repente se convierte en demonio y ataca!
+
+![image](https://github.com/user-attachments/assets/db0a25c2-6226-4883-95f7-468205346cde)
+
+![image](https://github.com/user-attachments/assets/1bece5f8-d36c-449e-ba9f-aeca9e3dc7fb)
+## Kurama:
+    Un demonio disfrazado de humano ...
+    Que problemático.
+
+## Kurama:
+    Entonces, 
+    ¿por donde debería empezar? ...
+
+### Ir al parque de la zona:
+    Hay una aura inquietante por todos partes
+
+### Area residencial:
+![image](https://github.com/user-attachments/assets/5fc1a029-cb5c-49cb-8d34-36c28a62c499)
+## Mujer extraña:
+    Um, ¿Shuichi?
+
+## Kurama:
+    Si, pero ¿quien eres?
+
+## Mujer extraña:
+    Por favor muere.
+    Lo siento.
+
+### De repente se convierte en demonio y ataca!
+
+![image](https://github.com/user-attachments/assets/a3af657a-1691-4658-bfff-3bdbc9cac3d4)
+
+![image](https://github.com/user-attachments/assets/0d70e4f0-6937-4982-8ae8-fbb7b1436273)
+
+## Kurama:
+    !Oh Dios mio, Incluso esta persona...¡
+    Es como si toda la ciudad hubiera sido invadida por demonios.
+
+### Calle del edificio
+![image](https://github.com/user-attachments/assets/1545b97e-86c1-4d0c-b41f-dbf659992715)
+## Madre de Kurama:
+    Hola, Shuichi.
+## Kurama:
+    ¿Madre que haces aquí?
+    Tu salud no está bien, no deberías salir mucho ...
+## Madre de Kurama:
+    Eres un niño muy amable.
+    Estaré bien, asi que no te preocupes.
+    Me estaba sintiendo bien después de mucho tiempo, así que decidí salir a caminar.
+## Kurama:
+    Ten cuidado, no te esfuerces demasiado
+
+### Ir a calles secundarias
+![image](https://github.com/user-attachments/assets/690be973-d368-49dc-8bf1-f4a630b47220)
+## Chica:
+    Um, disculpa.
+    ¿Has visto a Pochi?
+## Kurama:
+    ¿Pochi?
+## Chica:
+    Estaba paseando a mi perro y pasamos por un museo ...
+    De repente salió corriendo como si tuviera miedo.
+## Kurama:
+    Lo siento, pero no lo ví ...
+## Chica:
+    Oh, en serio ...
+
+## Kurama:
+    un museo ...
+
+### Ir al museo
+
+![image](https://github.com/user-attachments/assets/c6e88220-0e83-490d-8e9a-7887f574bc65)
+## Kurama:
+    La energía maligna emana de este museo.
+    La entrada está cerrada.
+    No puedo entrar de una manera imprudente.
+
+### Kurama al dirigirse por la calle trasera:
+![image](https://github.com/user-attachments/assets/7a637f9e-197b-4354-9f44-5ee1827fa6c3)
+## Hombre:
+    Ese tipo Shuichi, no puedo usarlo
+
+![image](https://github.com/user-attachments/assets/c04fa712-295d-481d-9397-73ae89d0e397)
+## Kurama:
+    Mamá yo no está aquí ...
+    ¿Me pregunto si se habrá ido a casa?
+
+![image](https://github.com/user-attachments/assets/5c193366-62f8-4bd6-884e-9f7fa955c3fc)
+## Kurama:
+    Oue, ¿Encontraste a Pochi?
+## Chica:
+    Jajajajajajaja .....
+    ¡No se nada de Pochi!
+## Kurama:
+    ¿Eh ...?
+    ¡Hmmm, aura demoníaca!
+## Kurama:
+    ¡Esa no es la chica de antes!
+    ¡Vamos demonio, muestrate!
+### De repente se convierte en demonio y ataca!
+![image](https://github.com/user-attachments/assets/2a9c7834-af3d-4a83-8de8-3aafa75379d5)
+
+## Kurama:
+    ¿Era una trampa?
+    No se cuál es el plan ...
+    Parece que están intentando llamar mi atención
+## Kurama:
+    Madre, será mejor estes en casa ...
+
+### Kurama se dirige a la zona residencial
+![image](https://github.com/user-attachments/assets/77629431-02b6-4dae-94df-05339d79c304)
+## Hombre:
+    ...Minamino Shuichi, ¿verdad?
+## Kurama:
+    ¿Podría ser otro demonio?
+
+## Hombre:
+    Estoy cuidando a tu madre.
+    
+## Kurama:
+    ¿Qué?
+
+## Hombre:
+    Estas preocupado, ¿Verdad? si quieres salvar la vida de tu madre ...
+    ven al museo. Lo estaremos esperando.
+## Kurama:
+    ¡Espera!
+    
+### el hombre desaparece
+
+## Kurama:
+    ¡Maldito demonio!
