@@ -1017,3 +1017,180 @@ Ir a casa de Okubo
 
 ## Kurama:
     ¡Maldito demonio!
+
+### Kurama corre al museo
+
+![image](https://github.com/user-attachments/assets/6d67eed3-f50b-4a29-abec-343dffe6588d)
+## Kurama:
+    Mamá...!
+
+![image](https://github.com/user-attachments/assets/955fef21-a300-422d-8e2d-b256afd75b79)
+## Kurama:
+    La entrada parece estar abierta.
+
+## Kurama:
+    ¿Entonces quieres que te felicite?
+    ¡Maldito demonio!    
+### Kurama entra al museo y mira alrededor
+
+![image](https://github.com/user-attachments/assets/92cb4b6a-0f18-4283-9551-c259266913c2)
+
+## Kurama:
+    Hay un aura demoniaca increible
+
+## Kurama:
+    Youma, ¿Dónde estás?
+
+### tenemos que escoger entre tres puertas:
+
+### Habitación a la izquierda:
+![image](https://github.com/user-attachments/assets/3f5ae5dd-d6b1-416a-8cb8-802ba6258319)
+## Kurama:
+    ¿Dónde estás? ¡Muestrate!
+
+### Madre de Kurama se esconde
+
+![image](https://github.com/user-attachments/assets/672e4522-009b-4abe-9bab-d90e426de967)
+## Kurama:
+    ¡Mamá!
+### Salir de la sala
+    ¡Shuichi!
+    ¿Qué haces?
+## Kurama:
+    ¡¿Ehh?!
+
+Se transforma en un cavernicola:
+![image](https://github.com/user-attachments/assets/ca3416c8-204e-4c89-a299-d67c4c32110b)
+
+![image](https://github.com/user-attachments/assets/a0eb60b1-b168-4cff-a72c-6db7466acc23)
+
+## Kurama:
+    No me dejeré engañar por ilusionesa
+
+### Habitación central
+![image](https://github.com/user-attachments/assets/034e2be3-7122-4200-9920-7d0b97825da3)
+## Kurama:
+    ¿Dónde estás?
+    ¡Muestrate!
+## Madre de Kurama:
+    Shuichi ....
+    Tengo dolor ...
+    Por favor ayúdame ...
+![image](https://github.com/user-attachments/assets/91cd51e6-aefd-4a55-9cda-011ef9c0e318)
+## Kurama:
+    ¡Mamá!
+### Salir de la sala
+## Madre de Kurama:
+    ¡Shuichi, detente!
+## Kurama:
+    ¡¿Ehh?!
+![image](https://github.com/user-attachments/assets/1600741c-aff6-4934-9618-5756b3ab78f9)
+
+## Kurama:
+    Maldita sea, qué despreciable...
+    !No perderé¡
+    
+### Habitación a la derecha:
+![image](https://github.com/user-attachments/assets/85f85278-f0d5-4842-a5dc-219cc96afb61)
+
+## Kurama:
+    ¡Mamá!
+    
+## Madre de Kurama:
+    Shuichi ....
+
+## Kurama:
+    Ni me dejeré engañar otra vez. ¡Te eliminaré!
+
+## Demonio lobo(Wolf-oni):
+    La persona de aquí es tu verdadera madre.
+
+![image](https://github.com/user-attachments/assets/a40ee752-8ed8-462b-833e-eb19aca58a53)
+## Kurama:
+    ¡Mamá!
+
+## Demonio lobo(Wolf-oni):
+    ¿Qué pasa? ¿Por qué no me eliminas rápidamente?
+    Sin embargo, también eliminarías a tu madre.
+
+![image](https://github.com/user-attachments/assets/1f132296-b664-4960-8770-8e644777c4b5)
+
+## Demonio lobo(Wolf-oni):
+    ¡Hmph! ¡No está mal!
+    ¿Pero qué pasa con tu madre?
+
+## Kurama:
+    !Espera¡ Te daré mi vida. A cambio, no le pongas las manos encima a mi madre.
+
+## Madre de Kurama:
+    ¡Shuichi, eso no sucederá!
+
+## Kurama:
+    Pero, madre ...
+
+![image](https://github.com/user-attachments/assets/af2948af-f230-4690-9e1e-bc5b509bd23f)
+## Demonio lobo(Wolf-oni):
+    Lo siento, Kurama, pero no necesito vidas humanas.
+    Me encanta verte sufrir y que estes desesperado.
+
+## Kurama:
+    ¿...?
+
+## Demonio lobo(Wolf-oni):
+    Y ademas hace un calor abrasador
+
+## Kurama:
+    Eres en verdad malvado
+
+## Demonio lobo(Wolf-oni):
+    Pongamos fin a este juego.
+
+![image](https://github.com/user-attachments/assets/aecf902e-2547-44d7-9f69-9bda350a5c83)
+### ¡el demonio lobo ha revelado su verdadera forma!
+
+## Demonio lobo(Wolf-oni):
+    Hmmph
+    ¿Crees que puedes derrotarme?
+
+![image](https://github.com/user-attachments/assets/18fc4835-3fad-4e1b-bf9d-97307c23f192)
+
+![image](https://github.com/user-attachments/assets/6a5cce5a-1878-46db-8a89-1c7a365a0a98)
+
+## Demonio lobo(Wolf-oni):
+    Maldita sea...
+    Pero no pienses que esto significa que has ganado
+
+## Kurama:
+    ¿Por qué hiciste esto?
+
+## Demonio lobo(Wolf-oni):
+    Vas a morir, mtengo mis sospechas
+
+## Kurama:
+    ¿sospechas?
+
+## Demonio lobo(Wolf-oni):
+    Pronto lo verás
+
+## Demonio lobo(Wolf-oni):
+    Eso sucederá ... Oye Chojo-sama ...
+
+## Kurama:
+    ¿Chojo?
+
+## Demonio lobo(Wolf-oni):
+    jejejeje
+
+## Kurama:
+    ¿Es el aura malgina que he sentido antes?
+
+![image](https://github.com/user-attachments/assets/c8bbd794-0a25-4a78-a3a6-ed37eda71b85)
+## Madre de Kurama:
+    Gracias, Shuichi
+
+## Kurama:
+    Lo siento, madre, por hacerte sufrir por mi culpa.
+    ¿Por qué está pasando esto?
+
+### Kurma estaba desconcertado
+### Fin del capitulo de Kurama
