@@ -1194,3 +1194,155 @@ Se transforma en un cavernicola:
 
 ### Kurma estaba desconcertado
 ### Fin del capitulo de Kurama
+
+### Capitulo Hiei
+
+
+![image](https://github.com/user-attachments/assets/b27ce5da-47f7-4ab2-b6c5-37e5e8433c51)
+## Hiei:
+    Tal y como dijo Koenma, hay una inmesa cantidad de energía demoníaca.
+    Es algo nostalgico para mi ...
+    Hmmmph, esto me recuerda los viejos tiempos ...
+
+![image](https://github.com/user-attachments/assets/9aa2c870-03ae-4fbb-af22-c7f0de16d5eb)
+## Demonio Gato Negro: 
+    Se dice que el tesoro está en lo mas alto de esa torre.
+## Hiei:
+    Esta bien, ¡vamos!
+
+![image](https://github.com/user-attachments/assets/718cb57a-21f7-443b-b533-13a6229eb307)
+## Hiei: 
+    ...
+    Nunca pensé que un hombre como yo recordaría viejos momentos ...
+    Sin embargo, por alguna razón, esta energía demoníaca me recuerda algo de hace mucho tiempo ...
+    Hay algo extraño en esta aura ...
+
+### Hiei se mueva a una calle residencial:
+### Hay dinero cayendo
+### al recogerlo aparece un hombre
+
+![image](https://github.com/user-attachments/assets/f1af1a70-c0cb-4589-bd8f-589d09edf194)
+## Hombre:
+    ¿Acabas de encontrar algo de dinero?
+
+## Hiei:
+    ¿Qué pasó?
+
+## Hombre:
+    Todo el dinero que hay en esta ciudad pertenece al tesoro.
+    por favor dámelo.
+
+## Hiei:
+    ¿Okura? ¿De qué tonterias estás hablando?
+
+## Hombre:
+    Si no me lo quieres dar ...
+
+### ¡De repente, se convierte en un demonio y ataca!
+![image](https://github.com/user-attachments/assets/73f91e2c-b0e6-448a-ab08-0fb27c5fbcf9)
+
+![image](https://github.com/user-attachments/assets/9a2cbc0a-4e79-41a3-a057-8168088e0f79)
+
+![image](https://github.com/user-attachments/assets/b9375ee9-cf48-4d46-bf7b-00b9801d50a7)
+## Hiei:
+    ¿Podría ser que los demonios hayan comenzado sus actividades?
+
+### Hiei se dirige al parque
+### El dinero esta por ahí
+### Si se recoge el dinero aparece otro hombre con el mismo dialogo anterior
+### Si no ser recoge:
+
+## Hiei:
+    no me interesan las pequeñas cantidades de dinero.
+    
+### Una sombra pasa corriendo
+![image](https://github.com/user-attachments/assets/a8354645-3ad6-47d6-9f78-473e39cdacc0)
+## Hiei:
+    ¿Eh?
+
+![image](https://github.com/user-attachments/assets/3a142846-f0dd-4fa0-b482-2b69f012227d)
+## Hombre:
+    ¿Es tu dinero?
+
+## Hiei:
+    No
+
+## Hombre
+    Está bien, ¡lo tengo!
+
+## Hiei:
+    ... es un mundo despiadado.
+
+### Se dirige a la estacion del tren de alta velocioda
+### Hiei se choca con una chica
+
+![image](https://github.com/user-attachments/assets/a6eb3461-7b8c-4a8b-9240-c630e58ce0ba)
+## Chica:
+    ¡Kyaa!
+
+![image](https://github.com/user-attachments/assets/f31e8f27-f684-4fe2-95e5-eac01a0223e7)
+## Hiei:
+    Ups ... ten cuidado cuando camines por la calle. 
+
+## Chica:
+    ¿Eh?
+
+## Hiei:
+    ¿Hay algo en mi cara?
+
+## Chica:
+    umm, nada.
+
+### La chica se va
+
+![image](https://github.com/user-attachments/assets/93693a10-5919-42a5-a3ca-9c75f7f847d8)
+## Hiei:
+    ...
+
+### Se dirige al parque
+
+## Chica:
+    Es un placer volver a verte, hermano mayor.
+    
+## Hiei:
+    Tú otra vez ...
+    No tengo tiempo para jugar con niños.
+
+## Chica:
+    ¿Hermano mayor... también tú has muerto alguna vez?
+
+## Hiei:
+    ¿Qué?
+
+## Chica:
+    ¡Tienes la misma aura que el tío Ōkura!
+
+## Hiei:
+    ¿De qué estás hablando?
+
+## Chica:
+    Si, ella vive en una casa grande
+
+## Madre:
+    “¡Oye, tú! ¿¡Qué estás haciendo!?”
+
+![image](https://github.com/user-attachments/assets/6b281de0-0c61-4c83-bd2c-c7bd1053863f)
+
+## Madre: 
+    "Lo siento mucho. Esta niña es demasiado curiosa...
+
+## Hiei:
+    No importa ... 
+    ¿Quién o qué es ese tal Ōkura?”
+
+## Madre: 
+    jajajaja, no es nada. Lo siento.
+    “¡Tú también, no le digas cosas raras a desconocidos!”
+
+## Chica:
+    Sí, lo siento.
+
+## Hiei:
+    ¿Qué diablos?
+
+
