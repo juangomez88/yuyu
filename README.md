@@ -1384,6 +1384,8 @@ Se transforma en un cavernicola:
     "Después de todo, parece que la sensibilidad espiritual de esa niña es bastante fuerte..."
 
 ### Hiei se dirige al parque
+<img width="963" height="400" alt="image" src="https://github.com/user-attachments/assets/d1430492-b4f3-4866-ab6c-72e9f6188956" />
+
 ## Madre: 
     "¡Ah, disculpe! ¿Ha visto a mi hijo/a?"
 
