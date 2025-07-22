@@ -1346,3 +1346,74 @@ Se transforma en un cavernicola:
     ¿Qué diablos?
 
 
+### Hiei se dirige a la zona residencial rica:
+
+### aparece un hombre
+<img width="962" height="631" alt="image" src="https://github.com/user-attachments/assets/19954343-ce31-49ab-9ae9-c8a10e2f428c" />
+## Hombre:
+    "Disculpa, quería preguntarte algo..."
+## Hiei:
+    ??
+
+## Hombre: 
+    "¿Conoces a una niña pequeña con el pelo recogido a un lado, verdad?"
+
+## Hiei: 
+    "Maldito seas..."
+
+## Hombre: 
+    "Hacerte el tonto no te servirá de nada, te lo advierto."
+    "Es que hace un momento te vi hablando con ella, ¿entiendes?"
+
+## Hiei: 
+    "¿Pretendes asustarme?"
+
+## Hombre: 
+    "Si no quieres responder..."
+
+## Hiei: 
+    ¡!
+
+### ¡De repente, se convirtió en un demonio y atacó!
+<img width="955" height="433" alt="image" src="https://github.com/user-attachments/assets/99be2b95-36e0-4972-a5b7-1645567204c8" />
+
+<img width="959" height="426" alt="image" src="https://github.com/user-attachments/assets/71aec360-c968-490e-b8d2-27dd014d1a08" />
+
+## Hiei: 
+    "Ya veo... Parece que hay alguien que no quiere que esa niña descubra su secreto."
+    "Después de todo, parece que la sensibilidad espiritual de esa niña es bastante fuerte..."
+
+### Hiei se dirige al parque
+## Madre: 
+    "¡Ah, disculpe! ¿Ha visto a mi hijo/a?"
+
+## Hiei: 
+    "¿Le ha pasado algo a esa niña?"
+
+## Madre: 
+    "La perdí de vista solo un momento y desapareció..."
+
+## Hiei:
+    "Ya veo... Así que, ¿fue secuestrada por los cómplices del demonio...?"
+    "¡Oye! ¿Quién es ese tal Okura del que hablaba la niña?"
+
+## Madre: 
+    "¿Eh? Pues... es un hombre rico que vive en la mansión de más adelante..."
+    "Es un avaro muy conocido por aquí..."
+     "Pero se suponía que había muerto de un ataque al corazón el otro día..."
+     "Dicen que su obsesión por el dinero era tal, que acabó reviviendo..."
+
+## Hiei: 
+    "¿¡Que revivió!?"
+
+## Madre: 
+    "No puede ser, seguro que es solo un rumor."
+    "Es una historia siniestra, la verdad..."
+
+## Hiei: 
+    "Mmm... un demonio capaz de resucitar a los muertos..."
+     "Solo conozco a uno... No hay duda, tiene que ser él."
+     "Dime dónde está la mansión de Okura. Es posible que la niña esté allí."
+
+## Madre: 
+    "¡¿Qué?! ¡Pero si allí también hay un perro muy peligroso...!"
