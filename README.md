@@ -1406,7 +1406,7 @@ Se transforma en un cavernicola:
      "Dicen que su obsesión por el dinero era tal, que acabó reviviendo..."
 
 ## Hiei: 
-    "¿¡Que revivió!?"
+    "¿¡Que, revivió!?"
 
 ## Madre: 
     "No puede ser, seguro que es solo un rumor."
@@ -1419,3 +1419,140 @@ Se transforma en un cavernicola:
 
 ## Madre: 
     "¡¿Qué?! ¡Pero si allí también hay un perro muy peligroso...!"
+
+### "Hiei pidió las indicaciones para ir a la mansión de Okura."
+
+<img width="954" height="646" alt="image" src="https://github.com/user-attachments/assets/2578d54c-fa55-4cf5-87b8-c4876b33a8fc" />
+## Hiei:
+    "Tendría que haberme percatado antes."
+    "Esta aura es la suya... La conozco muy bien."
+
+<img width="960" height="408" alt="image" src="https://github.com/user-attachments/assets/8b635b63-cd5f-475d-8ba2-1316646593bb" />
+
+### Hiei toma una pausa, y de repente
+## Hiei:
+    "Bueno, entonces..."
+    ¡!
+
+<img width="958" height="449" alt="image" src="https://github.com/user-attachments/assets/4c03afff-fae8-4df5-aea3-791a268aef3f" />
+
+
+aparace 
+<img width="958" height="387" alt="image" src="https://github.com/user-attachments/assets/883b4114-a5fe-46df-9c8a-88781a9da5b0" />
+
+
+<img width="961" height="416" alt="image" src="https://github.com/user-attachments/assets/c879c42e-ce07-4011-866b-79210421be46" />
+
+### Hiei mira alrededor y no ve demonios e ingresa a la mansión 
+
+<img width="964" height="406" alt="image" src="https://github.com/user-attachments/assets/fbea5882-1254-44bd-9a76-ba59321e555d" />
+
+<img width="959" height="393" alt="image" src="https://github.com/user-attachments/assets/bdc89e32-74cd-4e93-bc35-3a1999269512" />
+
+## Hiei:
+    "¿Qué demonios es este interfono?"
+    "Vaya, si hasta tiene una maldita ranura para el dinero."
+
+### Hiei ingresa dinero por la ranura
+
+## Interfono: 
+    "¡Muchas gracias! ¡Adelante, entre por favor!"
+
+## Hiei:
+    ....
+
+### Hiei entra al cuarto
+
+<img width="962" height="410" alt="image" src="https://github.com/user-attachments/assets/1a612082-ac0e-45e5-8fec-f27ad7b5091f" />
+
+## Hiei:
+    "Bah. Un espacio inútilmente grande. Todos los sitios se ven iguales."
+
+### se escucha un grito
+¡Aaaah!
+
+## Hiei:
+    "¡Es la voz de ella...!"
+
+<img width="961" height="394" alt="image" src="https://github.com/user-attachments/assets/840bd438-bed0-4e4c-bde5-190ae547c92e" />
+
+## Niña: 
+    "¡Hermano mayor!"
+
+## Hiei:
+    "Tal como pensaba. Yo me encargo de lo demás. ¡Ahora vete, deprisa...!"
+
+## Niña: 
+    "¡Cuidado, detrás de ti!"
+
+<img width="957" height="428" alt="image" src="https://github.com/user-attachments/assets/330d4392-1328-4894-b1f9-9a000a82aa06" />
+
+
+<img width="960" height="323" alt="image" src="https://github.com/user-attachments/assets/51920a22-aba7-436d-a308-2b5840a5d15d" />
+
+<img width="960" height="335" alt="image" src="https://github.com/user-attachments/assets/e2a0ea9f-a8d9-4805-9802-70c58057ec29" />
+
+<img width="961" height="393" alt="image" src="https://github.com/user-attachments/assets/022eb94c-168c-43c0-9c36-8bdf5bc40acd" />
+
+## Hiei:
+    "Entonces te raptó un demonio. ¿No te has hecho daño?"
+
+## Niña:
+    ¿Un demonio? ¡No sé de qué hablas!"
+    "Esta mansión me da una sensación extraña, por eso vengo a jugar aquí a menudo."
+     "¡Es muy divertido! ¡Hay sillas raras y cosas así dando vueltas por todas partes!"
+
+## Hiei: 
+    "Lo que me faltaba... y justo en un momento como este..."
+    "¡Tu madre está preocupada! ¡Vete a casa de una vez!"
+
+## Niña:
+    "¡De acuerdo! ¡Nos vemos, hermano!"
+
+## Hiei:
+    "...Definitivamente, no sé cómo tratar con niños..."
+
+### Hiei ingresa a una habitación
+<img width="950" height="643" alt="image" src="https://github.com/user-attachments/assets/c33028ef-eb8d-4f83-956f-165cc80140ef" />
+
+## Hiei:
+    "Tú debes de ser Okura, ¿verdad?"
+
+## Okura:
+    "Grrrr... ¿Y tú quién eres...?
+
+## Hiei: 
+    "Hmph. Tal como pensaba, parece que está poseído."
+    "No solo eso, sino que puedo ver claramente la verdadera forma del que lo posee."
+    "Esa mirada... son los ojos de un gato. Es su técnica especial: el 'Ojo de Gato'."
+    "¡Basta ya! ¡Revela tu verdadera forma!"
+
+## Okura: 
+    Grrrr...
+
+<img width="955" height="411" alt="image" src="https://github.com/user-attachments/assets/40c879dc-1dd7-4f32-a21e-3e789f4f0eab" />
+
+## Okura: 
+    Grrrr...
+
+<img width="972" height="337" alt="image" src="https://github.com/user-attachments/assets/58f67576-f2f6-480f-9900-4f6d07875789" />
+
+<img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/8a1c2932-2e90-4158-aac8-37949cf0c679" />
+## Hiei: 
+    "Esto no es más que una marioneta. ¿Dónde está el verdadero...?"
+
+### Una sombra corre detrás de Hiei
+
+## Hiei:
+    "¡Ahí estás!"
+
+### Hiei corre detrás de la sombra
+<img width="955" height="626" alt="image" src="https://github.com/user-attachments/assets/368d5c06-246b-4df1-a0ec-5b938c034e56" />
+
+## Demonio Gato Negro:
+    "Así que eres Hiei..."
+
+## Hiei: 
+    "Ha pasado bastante tiempo, ¿no?, Demonio Gato Negro."
+    "Traer de vuelta del más allá a un humano con una fuerte obsesión por el dinero..."
+    "Así que lo estás utilizando... Como siempre, hay que reconocer que eres listo."
