@@ -1556,3 +1556,107 @@ aparace
     "Ha pasado bastante tiempo, ¿no?, Demonio Gato Negro."
     "Traer de vuelta del más allá a un humano con una fuerte obsesión por el dinero..."
     "Así que lo estás utilizando... Como siempre, hay que reconocer que eres listo."
+
+## Demonio Gato Negro:
+    ...
+
+## Hiei: 
+    "Esa faceta tuya era la que me gustaba."
+    "Por eso, en el pasado, tú y yo incluso llegamos a ser compañeros..."
+
+### se produce un flashback
+
+## Demonio Gato Negro: 
+    "Dicen que el tesoro secreto está en lo más alto de esa torre."
+
+## Hiei:
+    "¡De acuerdo, vamos!"
+
+<img width="961" height="402" alt="image" src="https://github.com/user-attachments/assets/f2966b8d-c98d-4048-a505-52c84577f504" />
+
+## Demonio Gato Negro: 
+    "¡Nos han encontrado! ¡Ya vienen!"
+
+## Hiei:
+    "¡Sigue sin mí! ¡Yo los detendré!
+    "¡Si logras escapar, nos vemos en el lugar de siempre!"
+
+### se acaba el flashback con el demonio gato corriendo
+
+## Hiei: 
+    "Pero, por más que esperé, nunca llegaste..."
+
+## Demonio Gato Negro: 
+    "¿Así que todavía me guardas rencor por eso?"
+    "¿Tanto querías el tesoro? Qué mezquino eres."
+
+<img width="954" height="398" alt="image" src="https://github.com/user-attachments/assets/35579b0a-6e6e-4bdc-b99d-afae1adc2eab" />
+
+## Hiei: 
+    "No me importa el tesoro. Pero tú... tú traicionaste mi confianza."
+    "Ahora pagarás por lo que hiciste."
+
+## Demonio Gato Negro: 
+    "Muy bien. ¡Esta será mi expiación!"
+
+<img width="957" height="359" alt="image" src="https://github.com/user-attachments/assets/3c7154e1-fded-419b-b227-4424ed56f684" />
+
+
+<img width="966" height="341" alt="image" src="https://github.com/user-attachments/assets/51aa7828-9827-4eb1-b953-89d48e616f8f" />
+
+<img width="962" height="400" alt="image" src="https://github.com/user-attachments/assets/f72db1a8-46bb-4be7-8890-100731681232" />
+
+## Demonio gato:
+    "Ugh... Veo que te has vuelto más fuerte, Hiei..."
+
+## Hiei:
+    ...
+
+## Demonio gato:
+    "¡Pero en la Isla de la Puerta Infernal, no seré derrotado!"
+
+## Hiei: 
+    ¿¡Qué!?
+
+## Demonio gato:
+    "Dejaremos esto para después..."
+
+## Hiei:
+    "¡Dilo de una vez! ¿¡Dónde se encuentra la Isla de la Puerta Infernal!?"
+
+## Demonio gato:
+    "El... Mundo Demoníaco..."
+
+### EL demonio gato desaparece
+<img width="968" height="397" alt="image" src="https://github.com/user-attachments/assets/9364490b-ce32-4ba7-8275-6df3f0e81369" />
+
+## Hiei:
+    "Así que es una energía demoníaca de apego..."
+    "¡Maldito Demonio Gato Negro...!"
+
+<img width="965" height="400" alt="image" src="https://github.com/user-attachments/assets/7af07a52-335f-41b6-9c6a-93f6373c89d4" />
+
+### Hiei regresó tarde.
+
+<img width="965" height="393" alt="image" src="https://github.com/user-attachments/assets/2a73ea14-a25a-4017-a84d-cd088c63bc0c" />
+## Kuwabara: 
+    "¡Ah, qué rico estuvo!"
+    
+## Botan:
+    "¡Es increíble! ¡Se ha comido 13 bollos de carne!"
+
+## Yusuke: 
+    "Lo bueno que tiene este tipo es su cabeza dura y su estómago de acero."
+
+## Kuwabara: 
+    ¡Urp...!(erupta)
+    "O sea, ¿quieres decir que tengo la cabeza y el estómago sanos?"
+
+## Hiei: 
+    "Lo que quiere decir es que eres un idiota."
+
+## Botan: 
+    "Vaya, Hiei, ¿ya has vuelto?"
+
+## Kuwabara:
+    "¡Eh, tú, Hiei, desgraciado...!"
