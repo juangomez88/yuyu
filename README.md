@@ -1660,3 +1660,18 @@ aparace
 
 ## Kuwabara:
     "¡Eh, tú, Hiei, desgraciado...!"
+
+## Hiei: 
+    "Yo me limité a traducir."
+
+## Kuwabara: 
+    "¡Oye, oye, Urameshi!"
+
+<img width="961" height="388" alt="image" src="https://github.com/user-attachments/assets/f1a6c46c-3911-445e-b500-efa2008a48c9" />
+## Yusuke:
+    "¿¡Qué te pasa, imbécil!?"
+
+<img width="970" height="402" alt="image" src="https://github.com/user-attachments/assets/268b4611-eed2-4fd3-af19-0cc94af1ba07" />
+
+## Koenma:
+    "¡Ya es suficiente!"
