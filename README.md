@@ -1675,3 +1675,48 @@ aparace
 
 ## Koenma:
     "¡Ya es suficiente!"
+
+<img width="955" height="629" alt="image" src="https://github.com/user-attachments/assets/c14593c8-af96-457f-8a8e-506c69a6248e" />
+## Botan: 
+    "Así que al final se encontraron con un demonio, ¿verdad?"
+## Yusuke: 
+    "Claro, le di una buena paliza."
+
+## Kuwabara:
+    "¡Espera, que yo también!"
+
+## Koenma: 
+    "Y bien, ¿qué información han traído?"
+
+## Yusuke:
+    "Resulta que el demonio que vencí..."
+    "No podía ni con el campeón de la Isla Gokumon, ¡pero el muy idiota se jactaba de que podía vencer a Toguro!"
+
+## Koenma: 
+    "¡¿Qué?! ¡¿El campeón de la Isla Gokumon, dices?!"
+
+## Yusuke: 
+    "¿Qué pasa? ¿Es un conocido tuyo, Koenma?"
+
+## Koenma:
+    "¡Por supuesto que no! ¡No hay forma de que tenga conocidos en el mundo demoniaco!"
+    
+## Yusuke: 
+    "¿El Mundo Demoníaco? ¿Entonces la Isla Gokumon está allí?"
+
+## Hiei: 
+    "Ahora que lo pienso, el demonio que derroté también dijo lo mismo..."
+
+## Kuwabara: 
+    "¡Esperen un momento! El demonio que yo derroté..."
+    "Decía algo así como que el poder mágico del campeón romperá la barrera muy pronto."
+
+## Kurama: 
+    "Yo, del cuerpo del demonio que derroté..."
+    "Escuché que cuando la sospecha se disperse, será entonces cuando la barrera se rompa..."
+
+## Koenma: 
+    "¡Esperen! No puede ser..."
+
+## Hiei/Kurama: 
+    "¿No será que el aura demoníaca también se ha dispersado de los cuerpos de los otros demonios?"
