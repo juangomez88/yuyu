@@ -1823,6 +1823,9 @@ aparace
 
 <img width="947" height="679" alt="image" src="https://github.com/user-attachments/assets/8282307e-97e9-44b5-a905-dd13cc6f86b8" />
 
+<img width="948" height="667" alt="image" src="https://github.com/user-attachments/assets/8ab2fe5b-d420-4f44-a451-41f79da7fd13" />
+
+
 ### El Arco del Campeón Sombra
 
 <img width="954" height="392" alt="image" src="https://github.com/user-attachments/assets/3133f7b1-e46c-4646-be2a-f33d7ab2ee31" />
