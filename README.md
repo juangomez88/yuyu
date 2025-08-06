@@ -1827,6 +1827,6 @@ aparace
 
 <img width="954" height="392" alt="image" src="https://github.com/user-attachments/assets/3133f7b1-e46c-4646-be2a-f33d7ab2ee31" />
 
-### Mundo Demoníaco - Isla Gokumon
+### Mundo Demoníaco - Isla Gokumon (Se ve la isla en medio de relampagos y una canción tenebrosa)
 
 
