@@ -1720,3 +1720,113 @@ aparace
 
 ## Hiei/Kurama: 
     "¿No será que el aura demoníaca también se ha dispersado de los cuerpos de los otros demonios?"
+
+## Yusuke:
+    "Lo vi con mis propios ojos. Era una energía demoníaca nacida del miedo, y se escapó volando."
+
+## Hiei: 
+    "Y yo vi el aura de la obsesión."
+
+## Kuwabara:
+    "¡Pues yo también vi cómo la rebeldía de esos delincuentes se iba volando!"
+
+## Koenma:
+    "¡No puede ser, no puede ser! ¡Esto se ha convertido en un desastre!"
+
+## Botan: 
+    "¿De verdad?"
+
+## Koenma: 
+    "Según los datos del Mundo Espiritual..."
+     "Según parece, la Isla Gokumon se encuentra en un punto donde la barrera es ligeramente propensa a sufrir distorsiones."
+
+## Yusuke: 
+    "¿Así que los demonios han estado viniendo a través de esa grieta?"
+
+## Koenma:
+    "Como sabe eso, el campeón está aumentando su poder mágico con el fin de..."
+    "¡No hay duda de que pretende romper la barrera para conquistar también el Mundo Humano!"
+
+## Yusuke: 
+    "¡¿Qué has dicho!?"
+
+## Koenma: 
+    "Enviando demonios a través de la grieta en la barrera para obtener el miedo, la obsesión y la desconfianza..."
+    "¡Está planeando aumentar su poder con el espíritu de la rebelión!"
+
+## Kuwabara: 
+    "¡Esto no es ninguna broma!"
+
+## Koenma:
+    "Una vez que la barrera sea destruida, este mundo será un infierno."
+     "Los demonios que invadan el Mundo Humano cometerán toda clase de atrocidades y..."
+      "...y atormentarán a la humanidad..."
+
+## Kuwabara:
+    "¡N-no puede ser!"
+
+## Yusuke: 
+    "¡Koenma! ¿¡No hay alguna forma de salvarnos!?"
+
+## Koenma: 
+    "Si actuamos ahora, puede que todavía estemos a tiempo."
+
+## Yusuke: 
+    "¡Entonces, ¿qué hacemos!?"
+
+ ## Koenma:
+     "Hasta donde yo sé, el campeón necesita contener esa energía humana dentro de sí mismo antes de..."
+      "...dicen que tarda un día y una noche en asimilar ese poder."
+
+## Yusuke: 
+    "Entonces, ¿tenemos hasta mañana por la tarde?"
+
+## Koenma: 
+    "¿Están todos preparados para lo peor?"
+
+## Kuwabara:
+    Snif...
+
+## Yusuke:
+    "¡Cuenta conmigo!"
+
+## Hiei: 
+    "Es un oponente digno."
+
+## Kurama: 
+    "Supongo que no hay más remedio."
+
+## Koenma: 
+    "¡Todos al centro de la habitación!"
+    "¡Ahora los envío a la mansión del Campeón Sombra!"
+
+<img width="958" height="390" alt="image" src="https://github.com/user-attachments/assets/adece702-dcf7-4c4e-8757-11cbf320b183" />
+
+## Botan: 
+    "¡Ah, espera, Yusuke! Llévate esto."
+### Has recibido el Comunicador Compacto del Mundo Espiritual.
+
+## Koenma: 
+    "¡Allá vamos! ¡Ahora!"
+
+## Botan: 
+    "Mucha suerte..."
+
+### Empiezan a desvanecerse
+<img width="958" height="390" alt="image" src="https://github.com/user-attachments/assets/33ae74b3-5ff0-4f52-bbfa-f953b3f94784" />
+
+<img width="948" height="383" alt="image" src="https://github.com/user-attachments/assets/1e390e82-45c4-43d4-918b-7104b22c2f72" />
+
+## Koenma: 
+    "¡Cuento con ustedes!"
+ 
+
+<img width="947" height="679" alt="image" src="https://github.com/user-attachments/assets/8282307e-97e9-44b5-a905-dd13cc6f86b8" />
+
+### El Arco del Campeón Sombra
+
+<img width="954" height="392" alt="image" src="https://github.com/user-attachments/assets/3133f7b1-e46c-4646-be2a-f33d7ab2ee31" />
+
+### Mundo Demoníaco - Isla Gokumon
+
+
