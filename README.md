@@ -1832,4 +1832,73 @@ aparace
 
 ### Mundo Demoníaco - Isla Gokumon (Se ve la isla en medio de relampagos y una canción tenebrosa)
 
+<img width="958" height="403" alt="image" src="https://github.com/user-attachments/assets/d0ba8837-defb-4333-adb2-b50bd697be91" />
+
+<img width="961" height="396" alt="image" src="https://github.com/user-attachments/assets/67fa6b4f-7347-4225-97a6-8b8a36d4b6de" />
+
+## Kuwabara: 
+    "¿¡Dónde demonios estamos!?"
+
+<img width="962" height="394" alt="image" src="https://github.com/user-attachments/assets/cb1e327e-84bd-4884-b9b5-ccd471c77289" />
+
+## Yusuke:
+    "¡Oye! ¿¡Así que hemos venido directamente a la sala de Chōgoma Kage!?"
+
+<img width="952" height="388" alt="image" src="https://github.com/user-attachments/assets/9c52a898-3c7a-4f0b-b933-6165eec8e2a4" />
+
+## Kurama: 
+    "Eso parece."
+
+<img width="956" height="388" alt="image" src="https://github.com/user-attachments/assets/1bb5a852-ba97-4348-a48b-4d92201549c9" />
+
+## Hie:
+    "¡Vaya con Koenma! ¡Siempre haciendo estas estupideces!"
+
+<img width="956" height="392" alt="image" src="https://github.com/user-attachments/assets/328b648a-8de1-42f4-9f12-83b40b08ca0c" />
+
+## Yusuke: 
+    "¡Así nos ahorramos las molestias! ¡Acabemos con esto de una vez y larguémonos!"
+
+<img width="955" height="386" alt="image" src="https://github.com/user-attachments/assets/328a53c1-ff0a-4d64-a955-9c6219ed0d67" />
+
+## Yusuke: 
+    "¡Da la cara, Campeón Sombra!"
+
+<img width="961" height="383" alt="image" src="https://github.com/user-attachments/assets/82b07265-9a67-4634-9e0b-02ec6abef666" />
+
+## Kuwabara: 
+    "¡A este paso, ganaremos fácilmente y llegaremos de sobra al Torneo de Artes Marciales!"
+     "¡El gran Kuwabara ha llegado! ¡Sal de ahí de una vez, desgraciado!"
+
+## Kurama:
+    "¡Kuwabara! ¡Será mejor que no te muevas!"
+
+## Kuwabara: 
+    "¿Oh?"
+
+### ¡Yusuke y los demás han caído por un agujero en el suelo!
+<img width="959" height="391" alt="image" src="https://github.com/user-attachments/assets/891f4171-89d3-446d-ac6f-e76c82d99759" />
+
+<img width="960" height="388" alt="image" src="https://github.com/user-attachments/assets/d529230a-22d4-43f2-8c9a-9ccb08bc84f1" />
+
+<img width="954" height="390" alt="image" src="https://github.com/user-attachments/assets/6a932d30-d393-42ac-89f2-b4deda6994df" />
+
+<img width="958" height="382" alt="image" src="https://github.com/user-attachments/assets/85e0fa59-41e6-43e1-986b-b4e9321921af" />
+
+<img width="958" height="390" alt="image" src="https://github.com/user-attachments/assets/b959bc92-fadc-4477-a022-ca1ba23b1818" />
+
+## Yusuke: 
+    "¡Maldita sea! ¡Qué jugarreta más sucia!"
+
+## Kuwabara:  
+    "¡Imbécil! ¡Apártate de una maldita vez, Urameshi!"
+
+## Kurama: 
+    "Está completamente oscuro."
+
+## Hiei: 
+    ...
+
+
+
 
