@@ -1899,6 +1899,48 @@ aparace
 ## Hiei: 
     ...
 
+## Yusuke: 
+    "¡A ese maldito Campeón Sombra, lo voy a hacer pedazos!"
 
+## Kuwabara: 
+    "¡Maldita sea! ¿¡Dónde demonios estamos!?"
 
+## Hiei:
+    "No entres en pánico. Es patético." 
 
+## Kurama: 
+    "Tenemos que encontrar una fuente de luz..."
+    
+### El comunicador con el mundo espritual suena ...
+
+## Botan: 
+    "Yusuke, ¿qué tal por ahí? ¿Eh? ¿se han caído en alguna parte?"
+    "¡Y pensar que el señor Koenma nos había enviado directamente a la habitación de Chōgoma Kage!"
+    "¡Por favor, no hay tiempo que perder! ¡Dense prisa!"
+
+## Yusuke: 
+    "Je, je, je... Bueno, pues con esto conseguiré algo de luz..."
+
+### Yusuke encendió el mechero que llevaba.
+
+<img width="945" height="396" alt="image" src="https://github.com/user-attachments/assets/dfb60e36-28b6-4210-98f2-e822d3f312cc" />
+
+## Kuwabara: 
+    "Urameshi, ¿por qué llevas un mechero?"
+    
+## Yusuke: 
+    "Es lo que dicen: 'Hombre precavido vale por dos'."
+    ¿Eh?
+
+### Pero el mechero se quedó sin gas.
+
+## Kuwabara: 
+    "¡Y me vienes con 'hombre precavido vale por dos'... ¡No me hagas reír!"
+
+## Hiei: 
+    "No hay más remedio."
+     "¡Ja!"
+
+<img width="956" height="414" alt="image" src="https://github.com/user-attachments/assets/2f3ad33c-3341-4e03-a2d1-71d418541129" />
+
+### Hiei blandió su espada y prendió fuego a una astilla de madera.
