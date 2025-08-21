@@ -1944,3 +1944,74 @@ aparace
 <img width="956" height="414" alt="image" src="https://github.com/user-attachments/assets/2f3ad33c-3341-4e03-a2d1-71d418541129" />
 
 ### Hiei blandió su espada y prendió fuego a una astilla de madera.
+
+## Yusuke: 
+    "¡No está nada mal, Hiei!"
+
+<img width="956" height="400" alt="image" src="https://github.com/user-attachments/assets/f1398c82-38fe-442c-b5a9-919dfb825a47" />
+## Kurama: 
+    "¿Qué es esta habitación?"
+
+### Al encender la luz, vieron que estaban en una habitación cerrada por todos lados.
+
+## Kuwabara: 
+    "¿Pero qué es esto? ¡Qué lugar más deprimente!"
+
+### Es una habitación oscura. Hay huesos esparcidos por el suelo. No se ve ninguna salida. En el techo está el agujero por el que han caído.
+
+## Botan:
+    "¡El señor Koenma os dijo que os lo tomarais en serio!"
+
+## Yusuke: 
+    "¡No hay ninguna salida!"
+
+<img width="957" height="386" alt="image" src="https://github.com/user-attachments/assets/1b0a69c8-2e2a-4203-9b09-4af81cf6bd2d" />
+## Yusuke: 
+    "Qué lugar más deprimente. ¿Dónde está la salida?"
+
+<img width="945" height="381" alt="image" src="https://github.com/user-attachments/assets/f4ce266c-4d8d-42b6-8f5f-db5da5c2b143" />
+## Kuwabara: 
+    "¿Pero qué es esto? ¡Qué lugar más deprimente!"
+
+<img width="949" height="387" alt="image" src="https://github.com/user-attachments/assets/91672759-6dbe-4301-9fcb-83d7073de5eb" />
+## Kurama: 
+    "Estos huesos son humanos."
+    "Y además, tienen marcas como si hubieran sido masticados."
+
+<img width="954" height="386" alt="image" src="https://github.com/user-attachments/assets/d16d0dfe-1239-40eb-ad73-e2b54f83923b" />
+## Hiei: 
+    "Parece que este no es un buen sitio, después de todo."
+
+<img width="949" height="374" alt="image" src="https://github.com/user-attachments/assets/8df940e5-cec6-427d-b0a4-3f1d96561d29" />
+## Yusuke: 
+    "¡Bien! ¡Dejádmelo a mí!"
+
+<img width="957" height="390" alt="image" src="https://github.com/user-attachments/assets/5550cd38-2652-480b-896f-a1fc2e0f6cee" />
+## Yusuke:
+    ....
+### Yusuke examinó la pared.
+
+## Yusuke: 
+    "El color es diferente solo en esta parte."
+
+<img width="954" height="383" alt="image" src="https://github.com/user-attachments/assets/8ba653bc-644c-47df-94e2-71470792b9bd" />
+## Yusuke:
+    "¡Hya!
+    
+### Yusuke pateó la pared.
+
+## Yusuke: 
+    "¡Ha funcionado! ¡Una vez más!"
+
+<img width="954" height="375" alt="image" src="https://github.com/user-attachments/assets/fac7bb63-6c21-4df9-a31d-970d63359ae0" />
+## Yusuke:
+    "¡Hya!
+
+### Yusuke pateó la pared una vez más.
+
+<img width="957" height="388" alt="image" src="https://github.com/user-attachments/assets/a8916089-66cb-41ef-aebd-9eb57da6f828" />
+## Yusuke: 
+    "¡Lo conseguí! ¡Parece que podemos salir por aquí!"
+
+
+
