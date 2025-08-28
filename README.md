@@ -2012,6 +2012,60 @@ aparace
 <img width="957" height="388" alt="image" src="https://github.com/user-attachments/assets/a8916089-66cb-41ef-aebd-9eb57da6f828" />
 ## Yusuke: 
     "¡Lo conseguí! ¡Parece que podemos salir por aquí!"
+    "¡Vamos a ver a dónde lleva esto!"
+
+### Yusuke y los demás salieron de la habitación.
+
+<img width="962" height="385" alt="image" src="https://github.com/user-attachments/assets/334fe212-8c40-4a5f-a63d-1e32c1fa35e8" />
+
+### Yusuke y los demás salieron frente a un estanque.
+
+## Yusuke: 
+    "¿Qué es esto? ¿Y este sitio?"
+
+### Ante ellos se extiende un estanque. El agua parece sangre.
+
+## Yusuke: 
+    "Parece un estanque de sangre, ¿no?"
+
+## Kuwabara: 
+    "Qué estanque más siniestro."
+    
+## Kurama: 
+    "Hay bastante distancia hasta la otra orilla."
+
+## Hiei: 
+    "¡No tenemos tiempo que perder holgazaneando en un sitio como este!"
+
+## Yusuke: 
+    "¡No podemos ir a ningún sitio!"
+
+### Si te fijas bien, hay rocas que asoman por la superficie del estanque aquí y allá.
+
+## Yusuke: 
+    "Parece que vamos a tener que cruzar este estanque."
+
+## Kuwabara: 
+    "¡Si cruzamos por esas rocas, parece que podremos llegar al otro lado!"
+
+## Kurama: 
+    "Parece que podremos llegar al otro lado si seguimos esas rocas."
+    
+## Hiei: 
+    "Supongo que no queda otra que cruzar por esas rocas."
 
 
+## Yusuke: "Qué remedio... ¡Vamos a cruzar por las rocas!"
 
+<img width="952" height="395" alt="image" src="https://github.com/user-attachments/assets/b3aa98f6-9823-44e2-85be-d1aec6dee301" />
+
+## Yusuke: 
+    "¡Ahhh! ¡Ayudenme!"
+
+### Yusuke ha caído al estanque.
+
+## Yusuke: 
+    "¡Oigan, ustedes! ¿¡Piensan dejarme aquí tirado!?"
+
+## Kurama: 
+    "¿Estás bien, Yusuke?"
