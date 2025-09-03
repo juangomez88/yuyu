@@ -2069,3 +2069,102 @@ aparace
 
 ## Kurama: 
     "¿Estás bien, Yusuke?"
+
+## Kuwabara: 
+    "¡Ja, ja, ja! ¿¡Qué demonios haces, Urameshi!?"
+
+## Hiei: 
+    "Qué idiota."
+
+## Yusuke: 
+    "¡Imbéciles! ¡Ayudenme de una vez!"
+
+### Yusuke intentó salir, pero resbaló y volvió a caer.
+
+## Kuwabara: 
+    "¡Pero qué torpe eres!"
+
+## Yusuke:
+    "¡¿En serio me van a abandonar?!"
+
+<img width="956" height="382" alt="image" src="https://github.com/user-attachments/assets/73d7eb6e-810d-444d-ab0e-7d8a84a99e8c" />
+## Kuwabara: 
+    "¡Maldito seas! ¿¡Qué demonios haces!?"
+    "¡Vete al infierno y muérete!"
+
+<img width="950" height="382" alt="image" src="https://github.com/user-attachments/assets/3ebe3ab4-cb5d-476d-9490-ff83c586504f" />
+## Yusuke:
+    "¡Jódete!"
+
+## Kurama: 
+    "Ustedess dos, dejen de jugar y salgan de ahí de una vez."
+
+## Hiei:
+    "¡Vámonos de una vez!"
+
+### Hiei cruzó por las rocas.
+### El grupo de Yusuke cruzó el estanque siguiendo el camino de rocas.
+<img width="960" height="383" alt="image" src="https://github.com/user-attachments/assets/ab639a7d-06e4-4193-922d-bbbe83c81f50" />
+
+## Kuwabara:
+    "¿¡Aún no hemos llegado!?"
+
+## Kurama: 
+    "Eso parece. Aparentemente, aún estamos a mitad del Estanque de Sangre."
+
+### Aparentemente, estamos en una isla en mitad del Estanque de Sangre.
+
+<img width="955" height="379" alt="image" src="https://github.com/user-attachments/assets/9cca5e39-34d0-42e3-96f2-3fa0e6ee6260" />
+### Yusuke y los demás llegaron al borde de la isla.
+
+<img width="948" height="381" alt="image" src="https://github.com/user-attachments/assets/5e20f36b-3415-4410-92bf-01d488439e60" />
+## Yusuke: 
+    "¡Pero si es un callejón sin salida!"
+
+<img width="945" height="378" alt="image" src="https://github.com/user-attachments/assets/7de5c85e-019b-49da-b609-930bc63017af" />
+## Kuwabara: 
+    "¡Oye! ¿¡Aquello de allí no es un puente!?"
+
+<img width="936" height="379" alt="image" src="https://github.com/user-attachments/assets/99c72268-4dde-4333-85b5-f2e2bbec5d67" />
+## Kurama: 
+    "Me pregunto qué deberíamos hacer."
+
+<img width="955" height="378" alt="image" src="https://github.com/user-attachments/assets/61736047-bca0-4fb2-baea-10ba8bfdac3e" />
+## Yusuke: 
+    "Veo el puente, pero la cuestión es cómo vamos a hacerlo aparecer..."
+
+<img width="958" height="384" alt="image" src="https://github.com/user-attachments/assets/db75f5a0-12e6-42cc-9378-d3eff3102600" />
+## Hiei: 
+    "¡No tenemos tiempo que perder holgazaneando en un sitio como este!"
+
+## Yusuke:
+    "¡Bien! ¡Dejádmelo a mí!"
+<img width="955" height="385" alt="image" src="https://github.com/user-attachments/assets/35967b01-7746-4dd6-9bfa-7e95f13bfa9f" />
+## Yusuke: 
+    "¡Hya!"
+
+<img width="953" height="361" alt="image" src="https://github.com/user-attachments/assets/150e47a0-7969-49d1-96f6-8261955b59f3" />
+### Yusuke lanzó una piedra al puente, pero falló.
+
+<img width="947" height="377" alt="image" src="https://github.com/user-attachments/assets/9da804b0-203a-442a-b466-ac2914aaa0fa" />
+## Yusuke: 
+    "¡Maldita sea! ¡He fallado!"
+
+## Kuwabara: 
+    "¡Pah! ¡Vaya un inútil!"
+
+<img width="959" height="380" alt="image" src="https://github.com/user-attachments/assets/2cf538ea-010f-4f1a-aa2a-f0b2360457d9" />
+## Kuwabara: 
+    "Ni aunque estire mi Espada Espiritual, no llegará hasta allí."
+    "¡A la mierda, lo saltaré de un solo golpe!"
+    
+## Hiei: 
+    "No lo hagas. Lo único que conseguirás es caer al estanque."
+
+## Kuwabara: 
+    "Supongo que tienes razón... Al final es imposible, ¿no?"
+
+<img width="950" height="380" alt="image" src="https://github.com/user-attachments/assets/0cc8b9e0-8425-4849-ace0-f5b496ab7bba" />
+## Kurama: 
+    "Tiene que haber un interruptor por alguna parte para bajar el puente."
+
