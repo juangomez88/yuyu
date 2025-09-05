@@ -2161,10 +2161,40 @@ aparace
 ## Hiei: 
     "No lo hagas. Lo único que conseguirás es caer al estanque."
 
-## Kuwabara: 
+##aa Kuwabara: 
     "Supongo que tienes razón... Al final es imposible, ¿no?"
 
 <img width="950" height="380" alt="image" src="https://github.com/user-attachments/assets/0cc8b9e0-8425-4849-ace0-f5b496ab7bba" />
 ## Kurama: 
     "Tiene que haber un interruptor por alguna parte para bajar el puente."
+     "Vamos a investigar."
+
+### Kurama usó una flor demoníaca que llevaba para investigar los alrededores.
+
+## Kurama: 
+    "Lo encontré. Esa roca de ahí es el interruptor."
+
+## Kuwabara: 
+    "¿¡Que esta roca es el interruptor!?"
+
+<img width="952" height="390" alt="image" src="https://github.com/user-attachments/assets/f1879d19-4cf6-4089-97ec-26847d3b5637" />
+## Kuwabara: 
+    "¿Vaya?"
+
+<img width="954" height="391" alt="image" src="https://github.com/user-attachments/assets/eda48ad0-ac70-43f6-a23a-20da26ce3bc3" />
+## Kurama: 
+    "Bueno, ¿nos vamos?"
+
+## Yusuke: 
+    "¡Venga, vamos!"
+
+## Hiei: 
+    "Me adelanto."
+    
+## Kuwabara: 
+    "¡Venga, démonos prisa!"
+    "¡Prepárate, Campeón Sombra! ¡El gran Kuwabara va a por ti para darte una paliza!"
+
+<img width="960" height="388" alt="image" src="https://github.com/user-attachments/assets/c5d29e97-81f2-4215-b1e8-1ec3c860fa96" />
+### Yusuke y los demás cruzaron el Estanque de Sangre.
 
