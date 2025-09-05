@@ -2197,4 +2197,25 @@ aparace
 
 <img width="960" height="388" alt="image" src="https://github.com/user-attachments/assets/c5d29e97-81f2-4215-b1e8-1ec3c860fa96" />
 ### Yusuke y los demás cruzaron el Estanque de Sangre.
+### Un camino recto se extiende. Los alrededores están rodeados por unas paredes extrañas.
 
+<img width="955" height="383" alt="image" src="https://github.com/user-attachments/assets/ae2e8db6-3bfd-4429-9689-16bcb85cbb65" />
+
+## Yusuke: "
+    Parece que hemos logrado cruzar el Estanque de Sangre."
+
+<img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/ebda63ce-eb63-4f72-a386-ee5477e0efd9" />
+## Kuwabara: 
+    "Urameshi, este sitio me da muy mala espina. Hay un aura demoníaca increíblemente fuerte."
+     "¡Tengan cuidado todos!"
+
+<img width="946" height="372" alt="image" src="https://github.com/user-attachments/assets/d351940c-c5e2-4c70-bd76-702873ffcbc7" />
+## Kurama: 
+    "Parece que hay algo dentro de las paredes."
+
+<img width="954" height="380" alt="image" src="https://github.com/user-attachments/assets/93916747-5c9c-4352-b10b-862732c04e45" />
+## Hiei: 
+    "¿Y qué importa un aura demoníaca de este nivel?"
+
+<img width="950" height="379" alt="image" src="https://github.com/user-attachments/assets/f3a0b8d8-c05b-46c5-bc30-725e0642ea86" />
+### ¡De repente, un demonio ha aparecido de la pared!
