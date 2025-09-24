@@ -2128,6 +2128,15 @@ aparace
 
 <img width="945" height="378" alt="image" src="https://github.com/user-attachments/assets/7de5c85e-019b-49da-b609-930bc63017af" />
 
+<img width="953" height="382" alt="image" src="https://github.com/user-attachments/assets/cfb7eac7-9878-4424-8e5f-feb1d4a09a7e" />
+
+## Kuwabara:
+    ¡Urameshi!"
+    ¡Por tu culpa hemos perdido un montón de tiempo!
+    ¡Debería darte un poco de vergüenza!
+    ¡Vamos, hay que seguir adelante!
+    Los caminos de la derecha y la izquierda me dan mala espina por alguna razón.
+
 ## Kuwabara: 
     "¡Oye! ¿¡Aquello de allí no es un puente!?"
 
@@ -2177,6 +2186,14 @@ aparace
 ## Kuwabara: 
     "Supongo que tienes razón... Al final es imposible, ¿no?"
 
+<img width="952" height="382" alt="image" src="https://github.com/user-attachments/assets/422372f0-55ae-4036-8f50-877fc1f742e0" />
+
+### Hiei usó su Ojo Maligno.
+
+## Hiei:
+    El interruptor... está justo debajo del pie de ese imbécil.
+<img width="956" height="384" alt="image" src="https://github.com/user-attachments/assets/d3dd9bfe-480f-4e27-a06b-66d3b8a444af" />
+
 <img width="950" height="380" alt="image" src="https://github.com/user-attachments/assets/0cc8b9e0-8425-4849-ace0-f5b496ab7bba" />
 
 ## Kurama: 
@@ -2220,8 +2237,22 @@ aparace
 
 ## Yusuke: "
     Parece que hemos logrado cruzar el Estanque de Sangre."
+    
+<img width="952" height="378" alt="image" src="https://github.com/user-attachments/assets/a2a7763e-2b19-42b9-9492-365e5f42a8e0" />
 
-<img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/ebda63ce-eb63-4f72-a386-ee5477e0efd9" />
+## Yusuke: 
+    "¿Qué es esto? ¿Y esta pintura tan rara?"
+
+### Yusuke examinó la pared.
+
+<img width="939" height="367" alt="image" src="https://github.com/user-attachments/assets/69ec226f-ca6a-4dff-9b8b-b727b1118a51" />
+
+## Yusuke:
+    ¡Woah!
+
+### ¡De repente, un demonio ha aparecido de la pared!
+
+<img width="926" height="309" alt="image" src="https://github.com/user-attachments/assets/7671425c-2cb0-4c6c-8ae3-1b8ef83f2577" />
 
 ## Kuwabara: 
     "Urameshi, este sitio me da muy mala espina. Hay un aura demoníaca increíblemente fuerte."
@@ -2240,3 +2271,25 @@ aparace
 <img width="950" height="379" alt="image" src="https://github.com/user-attachments/assets/f3a0b8d8-c05b-46c5-bc30-725e0642ea86" />
 
 ### ¡De repente, un demonio ha aparecido de la pared!
+
+<img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/ebda63ce-eb63-4f72-a386-ee5477e0efd9" />
+
+### Yusuke pateó la pared.
+
+## Yusuke:
+    ¡Argh!
+
+<img width="925" height="369" alt="image" src="https://github.com/user-attachments/assets/c617b9f5-e55b-4e50-adbd-df1afc2381b4" />
+
+## Yusuke: 
+    "Con esto ya está. ¡Venga, vámonos!"
+
+## Kuwabara: 
+    "Sigues siendo un salvaje, como siempre."
+
+### Yusuke y los demás dejaron atrás el Camino del Demonio.
+
+<img width="956" height="384" alt="image" src="https://github.com/user-attachments/assets/b9b189e0-8a1e-466b-815d-2a47ae62fb92" />
+
+## Yusuke: 
+    "¿Qué es esto? ¿Y qué es aquello de allí?"
