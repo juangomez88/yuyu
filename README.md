@@ -2293,3 +2293,8 @@ aparace
 
 ## Yusuke: 
     "¿Qué es esto? ¿Y qué es aquello de allí?"
+
+## Kuwabara: 
+    "¡Después del Estanque de Sangre, una montaña de agujas! ¡Vaya broma de mal gusto!"
+
+
