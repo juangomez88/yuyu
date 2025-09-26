@@ -2297,4 +2297,29 @@ aparace
 ## Kuwabara: 
     "¡Después del Estanque de Sangre, una montaña de agujas! ¡Vaya broma de mal gusto!"
 
+## Yusuke: 
+    "¡Estamos perdiendo el tiempo! Voy a escalar."
 
+## Kuwabara: 
+    "Al fin y al cabo, a los monstruos les deben de molar los sitios que parecen un infierno."
+
+## Kurama: 
+    "Escalar esta montaña de agujas va a ser bastante duro, por lo que parece."
+
+## Hiei: 
+    "No hay más remedio que seguir adelante."
+
+## Kuwabara: 
+    "Claro, a los monstruos les van los lugares infernales."
+
+## Kurama: 
+    "Esperen un momento. Parece que también hay un camino a la derecha."
+
+<img width="958" height="389" alt="image" src="https://github.com/user-attachments/assets/77bca998-f8d3-4862-aa28-71471fdf4c7a" />
+
+### Tras tomar un rodeo, Yusuke y los demás se encontraron frente a un acantilado escarpado que les bloqueaba el paso.
+
+<img width="956" height="381" alt="image" src="https://github.com/user-attachments/assets/804e5853-7687-48ad-bfe3-ef50f87480f2" />
+
+## Yusuke: 
+    "¿Tenemos que escalar esto?"
