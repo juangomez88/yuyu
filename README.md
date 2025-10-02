@@ -2323,3 +2323,42 @@ aparace
 
 ## Yusuke: 
     "¿Tenemos que escalar esto?"
+
+## Kuwabara: 
+    "¡No me jodas! ¡Comparado con esto, la Montaña de Agujas habría sido más fácil!"
+
+### Cuanto más lo miras, más impresionante parece el acantilado.
+
+<img width="955" height="380" alt="image" src="https://github.com/user-attachments/assets/e19d8dc8-4680-465b-bda9-0948c22f8b41" />
+
+## Yusuke: 
+    "No hay tiempo para volver atrás."
+
+<img width="940" height="375" alt="image" src="https://github.com/user-attachments/assets/a3563455-3df9-4f94-9498-bef3220281e7" />
+
+
+## Kurama: 
+    "Esperen un momento. Parece que hay una especie de cueva al pie del acantilado."
+    "He encontrado algo interesante."
+
+### Kurama encontró una hierba medicinal.
+
+## Yusuke: 
+    "¿Qué pasa, Kurama?"
+
+## Kurama: 
+    "He encontrado una hierba poco común."
+
+## Kuwabara: 
+    "¿Pero qué dices? ¡Deja esa hierba y vámonos de una vez!"
+
+## Kurama:
+    "Entiendo, Kuwabara, pero esta hierba recupera la energía espiritual.
+
+## Kuwabara: 
+    "¡¿En serio?! ¡Pues entonces llevémonos todas las que podamos!"
+
+## Hiei: 
+    "Es inútil. Esa hierba pierde su efecto a los pocos minutos de ser arrancada."
+<img width="955" height="376" alt="image" src="https://github.com/user-attachments/assets/c0b3297b-7e87-4e32-8407-ba8d41bc457f" />
+
