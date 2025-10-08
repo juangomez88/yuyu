@@ -2362,3 +2362,120 @@ aparace
     "Es inútil. Esa hierba pierde su efecto a los pocos minutos de ser arrancada."
 <img width="955" height="376" alt="image" src="https://github.com/user-attachments/assets/c0b3297b-7e87-4e32-8407-ba8d41bc457f" />
 
+## Kurama: 
+    "Hiei tiene razón."
+    "Se llama Hierba de la Fuente Espiritual, y..."
+    "Es una hierba que solo crece en el Mundo Espiritual y en el Mundo Demoníaco."
+    "Crece absorbiendo la energía espiritual de la tierra."
+    "Por eso está repleta de energía espiritual."
+    "Sin embargo, su energía espiritual desaparece en cuanto la arrancas."
+
+## Kuwabara: 
+    "¡No me jodas! ¡Entonces no sirve para nada!"
+
+## Yusuke: 
+    "Entonces, ¿servirá si la usamos aquí mismo?"
+
+## Kurama: 
+    "Exacto. ¿Quieres hacer la prueba?"
+
+## Kuwabara: 
+    "¿De verdad crees que es seguro?"
+
+### Kuwabara se metió la Hierba de la Fuente Espiritual en la boca.
+
+<img width="955" height="378" alt="image" src="https://github.com/user-attachments/assets/d1e64c2f-33b1-40f8-afad-8bac71c167d4" />
+
+## Kuwabara: 
+    "¡Puaj! ¡Qué amargo está!"
+
+### El poder espiritual de Kuwabara se ha recuperado.
+
+## Kuwabara: 
+    "¡Vaya! ¡Siento cómo el poder espiritual recorre todo mi cuerpo!"
+
+### Yusuke y los demás se comieron la Hierba de la Fuente Espiritual.
+### El poder espiritual de Yusuke y los demás se ha recuperado.
+
+## Yusuke: 
+    "Vamos a echar un vistazo."
+
+## Kuwabara: 
+    "Quizás podamos ir por esa cueva."
+
+## Kurama: 
+    "Vamos a echar un vistazo a la cueva."
+
+## Hiei: 
+    "¿Vas a ponerte a lloriquear por un simple acantilado como este?"
+
+<img width="955" height="381" alt="image" src="https://github.com/user-attachments/assets/4781a9bd-2038-4a5f-8ca2-f08059cced6e" />
+
+### Yusuke y los demás entraron en la cueva que había al pie del acantilado.
+
+<img width="948" height="378" alt="image" src="https://github.com/user-attachments/assets/22df2e9f-c794-43c6-9ccc-dd304b488a9b" />
+
+## Yusuke: 
+    "¡Oye! ¡Pero si esto es un callejón sin salida!"
+
+<img width="952" height="381" alt="image" src="https://github.com/user-attachments/assets/9ed4630e-f39b-4a94-b58e-74bf3aa66f95" />
+
+## Kuwabara: 
+    "Urameshi, parece que esto no es más que una simple cueva."
+
+<img width="949" height="378" alt="image" src="https://github.com/user-attachments/assets/4282d13d-d9ee-4c37-b8b2-b37e9f988c91" />
+
+Yusuke: "Parece que esto no lleva a ninguna parte."
+
+<img width="949" height="376" alt="image" src="https://github.com/user-attachments/assets/6f90e366-463b-4a17-a7cb-8e893343b13c" />
+
+## Kurama: 
+    "¿Será de verdad un callejón sin salida?"
+
+<img width="948" height="380" alt="image" src="https://github.com/user-attachments/assets/60f2eee9-e63a-48f7-9624-230e6182bacd" />
+
+## Hiei: "Parece que han bloqueado la entrada detrás de nosotros."
+
+### Yusuke y los demas se devuelven a la montaña con agujas
+
+<img width="939" height="371" alt="image" src="https://github.com/user-attachments/assets/d7729ef2-8cdf-4fba-9221-8806a19742c9" />
+
+### Yusuke y los demás empezaron a escalar la Montaña de Agujas.
+
+## Kuwabara: 
+    "¡Menuda montaña más jodida de subir!"
+
+### Hay agujas por todas partes, por lo que es muy difícil de escalar.
+
+## Yusuke: 
+    "No hay tiempo para volver atrás. ¡Seguiremos adelante!
+
+### Yusuke y los demás siguieron escalando la Montaña de Agujas.
+
+## Yusuke: 
+    "¡Crucemos esta montaña de una vez por todas!"
+
+<img width="947" height="381" alt="image" src="https://github.com/user-attachments/assets/41115bff-a797-491e-96a1-0046ac0f94af" />
+## Yusuke: 
+    "¡Qué temblor más fuerte! ¡Agarraos todos a algo!"
+    
+## Kuwabara: 
+    "¿Eh? Ya ha parado. ¡Oye, Urameshi, salgamos de este sitio de una vez!"
+
+<img width="944" height="389" alt="image" src="https://github.com/user-attachments/assets/9bb45fb4-2ea4-4299-983c-6f5daaef0112" />
+
+## Yusuke: 
+    "¿¡Pero todavía sigue!?"
+
+## Yusuke: 
+    "Ese terremoto de antes ha sido muy raro."
+    "¡Lo sabía! ¡Esto no es un terremoto!"
+    "¡Solo está temblando este lugar!"
+    "¡Sujetense! ¡Nos va a hacer caer!"
+
+<img width="956" height="383" alt="image" src="https://github.com/user-attachments/assets/17ec2d33-3a84-4990-97a7-d66650fe9858" />
+
+## Kuwabara: 
+    "¡Argh! ¿¡Qué demonios es esto!?"
+
+    
