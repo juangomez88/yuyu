@@ -2478,4 +2478,58 @@ Yusuke: "Parece que esto no lleva a ninguna parte."
 ## Kuwabara: 
     "¡Argh! ¿¡Qué demonios es esto!?"
 
-    
+## Kurama: 
+    "Esta montaña era un erizo gigante."
+
+## Yusuke: 
+    "¡Maldita sea! ¡Así como estamos, es peligroso! ¡Todos, salten!"
+
+### Yusuke y los demás saltaron del erizo.
+
+## Kuwabara: 
+    "¡Monstruo! ¡Toma esto!"
+
+<img width="952" height="378" alt="image" src="https://github.com/user-attachments/assets/83f4b042-a8be-4253-884b-cf9b5789e1a2" />
+
+###Kuwabara atacó al erizo.
+
+<img width="954" height="380" alt="image" src="https://github.com/user-attachments/assets/b154f01b-2f10-4cca-94b2-60b22047fb47" />
+
+## Kuwabara: 
+    "¡No le hice nada en absoluto!"
+
+## Hiei:
+    "Siempre estás haciendo estupideces."
+
+## Kurama: 
+    "De todos modos, escondámonos en algún lugar."
+
+## Yusuke: 
+    "¡¿No hay ningún lugar donde podamos escondernos y escapar?!"
+
+## Kurama: 
+    "Está la cueva de hace un momento. Escondámonos allí."
+
+<img width="951" height="394" alt="image" src="https://github.com/user-attachments/assets/407d5929-d7a6-4066-9a3d-e429a1adae6a" />
+
+### Yusuke y su grupo se refugiaron dentro de la cueva
+
+## Yusuke: 
+    "Parece que nos salvamos."
+
+## Kurama: 
+    "No podemos decir eso todavía.
+
+<img width="942" height="377" alt="image" src="https://github.com/user-attachments/assets/f9db75d5-2322-448a-859d-4c6a4e1bcf61" />
+
+## Kuwabara: 
+    "¡Whoa-ooh!"
+
+<img width="949" height="384" alt="image" src="https://github.com/user-attachments/assets/742efe99-284b-4641-8652-bcb6fc961f75" />
+
+### El erizo está asomándose.
+
+
+
+
+
