@@ -2529,6 +2529,163 @@ Yusuke: "Parece que esto no lleva a ninguna parte."
 
 ### El erizo está asomándose.
 
+<img width="925" height="362" alt="image" src="https://github.com/user-attachments/assets/6a53180f-06dc-4c59-99f1-f112d95fe51e" />
+
+## Yusuke:
+    "¡Maldita sea! ¡Estamos atrapados como ratas!"
+
+## Kuwabara:
+    "¿¡A qué vienen esas bromas estúpidas en un momento como este!?"
+
+## Kurama:
+    "A este paso no lo lograremos. Hay que pensar en algo..."
+
+## Hiei:
+    "Parece que no hay más remedio que derrotar a ese tipo."
+
+## Kurama: 
+    "Si no lo derrotamos, nos quedaremos atrapados aquí."
+
+## Hiei: 
+    "Iré yo."
+
+## Yusuke: 
+    "¡Hiei, por muy fuerte que seas, no podrás con ese monstruo!"
+
+## Hiei: 
+    "Cállate y mira."
+
+<img width="964" height="385" alt="image" src="https://github.com/user-attachments/assets/6e44faba-0c4d-44ee-883a-120e48852f9c" />
+
+## Hiei: "¡Ja!"
+
+### ¡Hiei se abalanzó sobre el erizo con su espada!
+
+<img width="949" height="386" alt="image" src="https://github.com/user-attachments/assets/e9ac5ecf-b9e5-486e-9f7d-e8e6d805f96b" />
+
+## Erizo: 
+    ¡Aaaargh!
+
+<img width="954" height="385" alt="image" src="https://github.com/user-attachments/assets/3ded3775-7ada-4ec1-85da-abd7042ab42b" />
+
+## Hiei: 
+    "¡Ja!"
+    
+<img width="957" height="376" alt="image" src="https://github.com/user-attachments/assets/bb0886aa-21ed-4ccd-9aba-ad62d11e1584" />
+
+<img width="955" height="371" alt="image" src="https://github.com/user-attachments/assets/a951187a-c16e-4899-a458-9f81c672310a" />
+
+### ¡Hiei hizo caer la roca del acantilado de un tajo!
+
+<img width="953" height="388" alt="image" src="https://github.com/user-attachments/assets/2f9abf2f-607a-4831-8522-72757430e937" />
+
+### ¡GRAAAAH! (Un rugido monstruoso)
+
+## Kurama: 
+    "¡Toma ya! ¡Le he tirado una roca encima al erizo!"
+
+## Kuwabara: 
+    "¡No está nada mal para ser un enano, Hiei!"
+
+## Hiei: 
+    "Hmph. No necesito que un mono me diga eso."
+
+## Yusuke: 
+    "¡No es momento de pelear entre nosotros!"
+    "¡vámonos de una vez!"
+
+<img width="955" height="377" alt="image" src="https://github.com/user-attachments/assets/5ab7d1d1-dc4e-47a3-8554-6dd7107fa8c9" />
+### Tras dejar atrás la Montaña de Agujas, Yusuke y los demás llegaron a la Ribera de los Lamentos.
+
+## Yusuke: 
+    "Primero el Estanque de Sangre, luego la Montaña de Agujas, y ahora la Ribera de los Lamentos... ¡lo que nos faltaba!"
+
+## Kurama: 
+    "Es como el infierno mismo."
+
+## Yusuke: 
+    "Seguro que ese tal Campeón es un retorcido, como Koenma."
+
+## Botan: 
+    "¡Se lo voy a contar al señor Koenma!"
+
+<img width="957" height="381" alt="image" src="https://github.com/user-attachments/assets/0741a190-2e4d-406d-baa3-45a1441b16e1" />
+
+## Yusuke: 
+    "¡Joder! ¡No me des esos sustos! ¿¡Qué demonios es eso!?"
+
+## Botan: 
+    "La verdad es que..."
+    "El señor Koenma nos ha enviado información sobre la Isla Gokumon."
+
+## Yusuke: 
+    "¿Y bien? ¿De qué información se trata?"
+
+## Botan: 
+    "Dicen que la Isla Gokumon es una réplica exacta del infierno."
+    "Y no solo eso, sino que allí encierran las almas de los humanos vivos."
+    "Y luego, absorben la energía espiritual de esas almas."
+    "Las almas a las que les han quitado la energía se convierten todas en demonios."
+    "Y dicen que luego envían a esos demonios al Mundo Humano."
+
+## Kuwabara: 
+    "Entonces..."
+    "¿¡Entonces todos los demonios que hemos derrotado hasta ahora eran humanos!?"
+
+## Botan: 
+    "Me temo que sí."
+
+## Yusuke: 
+    "¿No hay alguna forma de devolverlos a la normalidad?"
+
+## Botan: 
+    "Lamentablemente, no tengo esa información."
+    "Pero si encontramos al culpable, puede que haya una solución."
+
+## Yusuke: 
+    "Sea como sea, no nos queda otra que destrozar esta isla."
+
+## Kurama: 
+    "Para poder hacer eso, primero tenemos que salir de aquí..."
+
+## Yusuke: 
+    "Botan,"
+    "Si este sitio es como el infierno, ¿no deberías saber dónde está la salida?"
+    "Así es... pero si es igual que el infierno... entonces no hay salida."
+
+## Yusuke: 
+    "¡¿Cómo?! ¡¿Que no hay salida!?"
+
+## Botan: 
+    "Así es,"
+    "Si hubiera una salida, todas las almas en pena se escaparían, ¿no crees?"
+
+## Kuwabara:
+    "¡En ese caso, llévanos otra vez a donde está el Campeón Sombra!"
+
+## Botan: 
+    "Me temo que eso es imposible."
+    "Es que, después de dejaros allí, la barrera de la torre se ha vuelto más fuerte."
+    "...así que ahora ya no puedo enviaros."
+    "Así están las cosas, así que ¡mucho ánimo!"
+
+## Yusuke: 
+    "¡'Mucho ánimo' mis narices! 
+    ¡Mierda, se ha cortado!"
+
+## Kurama: 
+    "Sea como sea, no nos queda otra que resolver esto nosotros mismos."
+
+## Yusuke: 
+    "Bueno, ¿y ahora qué?"
+
+## Hiei: 
+    "No ganamos nada quedándonos aquí parados."
+
+## Kuwabara: 
+    "¡Venga, movámonos de una vez!"
+
+
 
 
 
