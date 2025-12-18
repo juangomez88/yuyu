@@ -2685,8 +2685,75 @@ Yusuke: "Parece que esto no lleva a ninguna parte."
 ## Kuwabara: 
     "¡Venga, movámonos de una vez!"
 
+### Yusuke y los demás se adentraron más en la Ribera de los Lamentos.
 
+<img width="961" height="380" alt="image" src="https://github.com/user-attachments/assets/b5d88643-e622-4c9c-af3d-bbd0460e61e2" />
 
+## Kuwabara: 
+    "¡Mierda! ¿¡Nunca se acaba este sitio!?"
 
+## Yusuke: 
+    "¡El paisaje no cambia nada!"
 
+## Kuwabara: 
+    "No sé por qué, pero esto me da mala espina."
+
+## Kurama: 
+    "Sea como sea, tenemos que salir de aquí."
+
+### Yusuke y los demás se adentraron más en la Ribera de los Lamentos.
+
+### <img width="938" height="364" alt="image" src="https://github.com/user-attachments/assets/885a74f2-693a-4cd3-aa39-bc4207c35219" />
+
+## Yusuke: 
+    "¡Maldito demonio! ¡Así que por fin das la cara!"
+
+## Kuwabara: 
+    "¿Qué es esta acumulación de rocas?"
+
+## Kurama: 
+    "Es mejor que no toques descuidadamente las cosas que hay por aquí".
+
+<img width="953" height="379" alt="image" src="https://github.com/user-attachments/assets/6828bf00-ea62-41d3-8690-76992b0cf02f" />
+
+## Kuwabara: 
+    "¡Uuuy!"
+
+## Hiei: 
+    "Es una pérdida de tiempo. Vámonos de aquí".
+
+### Yusuke y los demás avanzaron más allá del lecho del río Sai
+
+<img width="953" height="375" alt="image" src="https://github.com/user-attachments/assets/0f50718e-415b-4590-9ac3-3457a19ef5b1" />
+
+## Yusuke	
+	"¡Maldito demonio, finalmente apareciste!"
+
+## Yusuke: 
+    "Con tantos demonios, es molesto tener que pelear con cada uno."
+
+<img width="956" height="377" alt="image" src="https://github.com/user-attachments/assets/cc2588ab-70c4-4791-95f7-9be1ea8b9622" />
+
+## Kuwabara: 
+    "Lo sabía, de esta pila de piedras sale energía demoníaca."
+
+<img width="959" height="378" alt="image" src="https://github.com/user-attachments/assets/497f8c56-8f3e-49ed-8eb5-fc20382b7348" />
+
+## Kuwabara: 
+    "¿Eh? Esta emite un aura distinta a las demás pilas de piedras."
+
+<img width="953" height="384" alt="image" src="https://github.com/user-attachments/assets/76a31890-ccab-453f-97b1-f9859b82f4cf" />
+
+## Kuwabara: 
+    "¡Guau! ...Pero si es una chica."
+
+## Kurama: 
+    "Es el espíritu de una mujer. Parece que aún no se ha convertido en demonio."
+    "Espera, me parece haberla visto en algún lado..."
+
+## Yusuke:
+    "Oigan, esta mujer está tratando de decir algo".
+
+## Espíritu de la mujer: 
+    "...Por favor... ayúdenme..."
 
