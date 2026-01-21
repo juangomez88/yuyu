@@ -2757,3 +2757,61 @@ Yusuke: "Parece que esto no lleva a ninguna parte."
 ## Espíritu de la mujer: 
     "...Por favor... ayúdenme..."
 
+## Kuwabara: 
+	"¿Pero qué carajos pasa?" 
+
+## Alma de mujer: 
+	"Mi... mi niño... se va a convertir en un monstruo."
+
+## Kuwabara: 
+	"¡¿Cómo?! ¡¿Pero quién es el responsable?!"
+
+## Alma de mujer: 
+	"...Un monstruo gigante y horrible se lo llevó por la fuerza..."
+
+## Kuwabara: 
+	"¡De acuerdo, lo capté! ¡Urameshi! ¡Vamos a salvarlo!"
+
+## Hiei: 
+	"...Tonterías. Solo estamos perdiendo el tiempo."
+
+## Kuwabara: 
+	"¡¿Qué dijisteee?! ¡¿Acaso piensas dejarla así cuando es obvio que esta mujer está en problemas?!"
+	"¡Eres un desgraciado! ¡Urameshi, dile algo a este sujeto!"
+
+## Yusuke: 
+	"...Hmm, lo que dice Hiei también tiene sentido..."
+
+## Kuwabara: 
+	"¡¿Qué dijiste?! ¡¿Acaso eres esa clase de sujeto?!"
+
+## Yusuke: 
+	"...Pero actuar sin un plan ahora mismo no tendría sentido."
+	"¡Bien, vayamos a echar un vistazo!"
+
+## Kurama: 
+	"Concuerdo contigo."
+
+## Hiei: 
+	"...Hagan lo que quieran. A mí no me involucren."
+
+## Kuwabara: 
+	"¡Muy bien! ¡Andando! ¡Oiga, señora, muéstrenos el camino!"
+
+<img width="955" height="381" alt="image" src="https://github.com/user-attachments/assets/bc0d5d0d-bf60-4495-8794-7a9580f7ac4f" />
+### "Guiados por el espíritu, Yusuke y sus amigos llegaron a la entrada de una cueva."
+
+## Yusuke: 
+	"¿Está aquí adentro?"
+
+## Alma de mujer: 
+	"...Sí, pero de aquí en adelante me es imposible entrar."
+
+## Kuwabara: 
+	"¡No te preocupes! ¡Kuwabara es todo un hombre y juro que lo salvaré aunque dé mi vida en ello!"
+
+## Kuwabara: 
+	"¡Prepárense, que allá vamos!"
+
+### "Es una caverna espeluznante."
+
